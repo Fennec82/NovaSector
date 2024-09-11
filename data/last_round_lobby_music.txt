@@ -1,0 +1,9 @@
+sound/ambience/clown.ogg
+sound/ambience/title1.mod
+sound/ambience/title1.mod
+sound/ambience/title1.mod
+sound/ambience/title1.mod
+sound/ambience/clown.ogg
+sound/ambience/title2.ogg
+sound/ambience/title3.ogg
+sound/ambience/title2.ogg

@@ -1,0 +1,2 @@
+{"ts":"1716288662.086267","round-id":null,"secret":0,"cat-list":["debug-sql","debug-lua","debug-mapping","debug-mobtag","debug-character-creator","debug"],"cat":"debug"}
+{"ts":"2024-05-21 06:51:10.585","cat":"debug-sql","msg":"Database is not enabled in configuration.","data":null,"w-state":{"tick_usage":100311,"tick_lag":0.5,"time":0,"timestamp":"1716288670.589381"},"s-store":null,"id":15,"s-ver":"1.0.0"}

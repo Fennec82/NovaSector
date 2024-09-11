@@ -1,0 +1,4 @@
+{"ts":"1716288728.288494","round-id":null,"secret":0,"cat-list":["runtime"],"cat":"runtime"}
+{"ts":"2024-05-21 06:52:14.494","cat":"runtime","msg":"World loaded at 06:52:08!","data":null,"w-state":{"tick_usage":124141,"tick_lag":0.5,"time":0,"timestamp":"1716288734.497756"},"s-store":null,"id":0,"s-ver":"1.0.0"}
+{"ts":"2024-05-21 06:52:14.498","cat":"runtime","msg":"Running /tg/ revision: \norigin/master: 38ac06f81e648ad357d6467d597f76d46cdfc41c\nRunning rust-g version 3.1.0","data":null,"w-state":{"tick_usage":124148,"tick_lag":0.5,"time":0,"timestamp":"1716288734.501504"},"s-store":null,"id":1,"s-ver":"1.0.0"}
+{"ts":"2024-05-21 06:52:14.546","cat":"runtime","msg":"Running /tg/ revision: \norigin/master: 38ac06f81e648ad357d6467d597f76d46cdfc41c\nRunning rust-g version 3.1.0","data":null,"w-state":{"tick_usage":124242,"tick_lag":0.5,"time":0,"timestamp":"1716288734.548417"},"s-store":null,"id":16,"s-ver":"1.0.0"}

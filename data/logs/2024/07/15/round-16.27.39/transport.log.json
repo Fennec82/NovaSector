@@ -1,0 +1,4 @@
+{"ts":"1721075259.841673","round-id":null,"secret":0,"cat-list":["transport"],"cat":"transport"}
+{"ts":"2024-07-15 16:28:46.097","cat":"transport","msg":"5IdS4: MULEbot successfuly set home location to ID QM #1 at 83, 118, 4","data":null,"w-state":{"tick_usage":143.885,"tick_lag":0.5,"time":163.5,"timestamp":"1721075326.102608"},"s-store":null,"id":200,"s-ver":"1.0.0"}
+{"ts":"2024-07-15 16:28:46.111","cat":"transport","msg":"QTFOM: MULEbot successfuly set home location to ID QM #2 at 83, 117, 4","data":null,"w-state":{"tick_usage":171.237,"tick_lag":0.5,"time":163.5,"timestamp":"1721075326.116282"},"s-store":null,"id":202,"s-ver":"1.0.0"}
+{"ts":"2024-07-15 19:06:06.624","cat":"transport","msg":"Sub: Registered new transport component tram remote w3bmG.","data":null,"w-state":{"tick_usage":26.7458,"tick_lag":0.5,"time":93302.5,"timestamp":"1721084766.627685"},"s-store":null,"id":6773,"s-ver":"1.0.0"}

@@ -1,0 +1,2 @@
+{"ts":"1716200739.102303","round-id":null,"secret":0,"cat-list":["shuttle"],"cat":"shuttle"}
+{"ts":"2024-05-20 06:55:36.674","cat":"shuttle","msg":"riotscopez/(Shana Schaftwerk) has sent shuttle \"arrivals_shuttle\" towards \"arrivals_stationary\", using the arrivals shuttle control.","data":null,"w-state":{"tick_usage":10.2692,"tick_lag":0.5,"time":16299.5,"timestamp":"1716202536.677174"},"s-store":null,"id":1705,"s-ver":"1.0.0"}
