@@ -1,0 +1,3 @@
+{"ts":"1718583947.505145","round-id":null,"secret":0,"cat-list":["economy"],"cat":"economy"}
+{"ts":"2024-06-16 23:13:59.420","cat":"economy","msg":"250 credits were given to Ku Mi-Kyung's account from income.","data":null,"w-state":{"tick_usage":2492.52,"tick_lag":0.5,"time":96049,"timestamp":"1718594039.467588"},"s-store":null,"id":2289,"s-ver":"1.0.0"}
+{"ts":"2024-06-16 23:15:01.365","cat":"economy","msg":"50 credits were transferred from Medical Budget's account to Ku Mi-Kyung","data":null,"w-state":{"tick_usage":14.142,"tick_lag":0.5,"time":96620,"timestamp":"1718594101.370936"},"s-store":null,"id":2346,"s-ver":"1.0.0"}

@@ -1,0 +1,2 @@
+{"ts":"1716200608.229659","round-id":null,"secret":0,"cat-list":["transport"],"cat":"transport"}
+{"ts":"2024-05-20 06:24:24.220","cat":"transport","msg":"yXG9v: MULEbot failed to set home at 73, 166, 2","data":null,"w-state":{"tick_usage":1214.08,"tick_lag":0.5,"time":137.5,"timestamp":"1716200664.223777"},"s-store":null,"id":166,"s-ver":"1.0.0"}
