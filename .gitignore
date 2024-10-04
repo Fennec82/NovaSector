@@ -4,7 +4,6 @@
 /config/dev_overrides.txt
 
 #Ignore everything in datafolder and subdirectories
-/data/**/*
 /tmp/**/*
 /cache/**/*
 

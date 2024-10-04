@@ -1,0 +1,5 @@
+{"ts":"1716198580.279208","round-id":null,"secret":0,"cat-list":["href-tgui","href"],"cat":"href"}
+{"ts":"2024-05-20 05:51:16.357","cat":"href-tgui","msg":"riotscopez in statbrowser/initialize","data":null,"w-state":{"tick_usage":1083.76,"tick_lag":0.5,"time":187.5,"timestamp":"1716198676.360616"},"s-store":null,"id":365,"s-ver":"1.0.0"}
+{"ts":"2024-05-20 05:51:19.825","cat":"href-tgui","msg":"riotscopez in browseroutput/initialize","data":null,"w-state":{"tick_usage":426.418,"tick_lag":0.5,"time":201.5,"timestamp":"1716198679.828288"},"s-store":null,"id":366,"s-ver":"1.0.0"}
+{"ts":"2024-05-20 05:51:20.893","cat":"href","msg":"RiotScopez (usr:RiotScopez[ (8,248,1)]) : RiotScopez src=[0x3000ac0];title_is_ready=1","data":null,"w-state":{"tick_usage":1518.85,"tick_lag":0.5,"time":203.5,"timestamp":"1716198680.897540"},"s-store":null,"id":367,"s-ver":"1.0.0"}
+{"ts":"2024-05-20 05:51:27.022","cat":"href-tgui","msg":"riotscopez in tgui_say/initialize","data":null,"w-state":{"tick_usage":5.661,"tick_lag":0.5,"time":231,"timestamp":"1716198687.025446"},"s-store":null,"id":373,"s-ver":"1.0.0"}

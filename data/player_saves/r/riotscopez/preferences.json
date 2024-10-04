@@ -1,0 +1,3344 @@
+{
+	"master_erp_pref": 1, 
+	"brief_outfit": "/datum/outfit/centcom/naval/fleet_admiral", 
+	"ghost_accs": "Full accessories", 
+	"ghost_form": "ghost", 
+	"ghost_orbit": "hexagon", 
+	"ghost_others": "Their sprites", 
+	"ghost_lighting": "Fullbright", 
+	"joblessrole": 3, 
+	"mod_select": "alt", 
+	"parallax": "High", 
+	"preferred_map": "Void Raptor", 
+	"scaling_method": "distort", 
+	"screentip_pref": "Enabled", 
+	"sound_tts": "Enabled", 
+	"sound_achievement": "Success Ping", 
+	"UI_style": "Midnight", 
+	"erp_sexuality_pref": "Straight", 
+	"asaycolor": "#ff0000", 
+	"ooccolor": "#ff0000", 
+	"screentip_color": "#deefff", 
+	"clientfps": -1, 
+	"multiz_performance": -1, 
+	"pixel_size": 0, 
+	"max_chat_length": 110, 
+	"sound_tts_volume": 100, 
+	"tip_delay": 500, 
+	"out_of_combat_fov_darkness": 0, 
+	"bypass_deadmin_in_centcom": 1, 
+	"ghost_roles_as_admin": 1, 
+	"comms_notification": 1, 
+	"ambientocclusion": 1, 
+	"auto_fit_viewport": 1, 
+	"broadcast_login_logout": 1, 
+	"darkened_flash": 0, 
+	"ghost_hud": 1, 
+	"inquisitive_ghost": 1, 
+	"ghost_roles": 1, 
+	"hotkeys": 1, 
+	"itemoutline_pref": 1, 
+	"multiz_parallax": 1, 
+	"chat_on_map": 1, 
+	"see_chat_non_mob": 1, 
+	"see_rc_emotes": 1, 
+	"screentip_images": 1, 
+	"sound_ambience": 1, 
+	"sound_announcements": 1, 
+	"sound_combatmode": 1, 
+	"sound_endofround": 1, 
+	"sound_instruments": 1, 
+	"sound_jukebox": 1, 
+	"sound_lobby": 0, 
+	"sound_midi": 1, 
+	"sound_ship_ambience": 1, 
+	"sound_elevator": 1, 
+	"fast_mc_refresh": 0, 
+	"tgui_fancy": 1, 
+	"tgui_input": 1, 
+	"tgui_input_large": 0, 
+	"tgui_input_swapped": 1, 
+	"tgui_lock": 0, 
+	"tgui_say_light_mode": 0, 
+	"enable_tips": 1, 
+	"widescreenpref": 1, 
+	"windowflashing": 1, 
+	"typingIndicator": 1, 
+	"auto_dementor_pref": 0, 
+	"delete_sparks_pref": 0, 
+	"looc_admin_pref": 1, 
+	"ticket_ping_pref": 1, 
+	"be_antag_pref": 1, 
+	"display_donator_status": 1, 
+	"do_emote_overlay": 1, 
+	"emote_panel": 1, 
+	"erp_pref": 1, 
+	"erp_sounds_pref": 0, 
+	"sextoy_pref": 1, 
+	"sextoy_sounds_pref": 0, 
+	"bimbofication_pref": 1, 
+	"aphro_pref": 1, 
+	"breast_enlargement_pref": 1, 
+	"breast_shrinkage_pref": 0, 
+	"penis_enlargement_pref": 1, 
+	"penis_shrinkage_pref": 0, 
+	"genitalia_removal_pref": 0, 
+	"gender_change_pref": 0, 
+	"autocum_pref": 1, 
+	"autoemote_pref": 1, 
+	"new_genitalia_growth_pref": 0, 
+	"face_cursor_combat_mode": 1, 
+	"soulcatcher_join_action": 1, 
+	"version": 44, 
+	"lastchangelog": 0, 
+	"be_special": [
+		"Heretic", 
+		"Operative", 
+		"Wizard", 
+		"Cultist", 
+		"Syndicate Sleeper Agent", 
+		"Blob", 
+		"Lone Infiltrator", 
+		"Lone Operative", 
+		"Operative (Midround)", 
+		"Obsessed", 
+		"Sentience Potion Spawn", 
+		"Sentient Disease", 
+		"Space Dragon", 
+		"Space Ninja", 
+		"Heretic Smuggler", 
+		"Provocateur", 
+		"Head Revolutionary", 
+		"Glitch", 
+		"Drifting Contractor"
+	], 
+	"default_slot": 4, 
+	"toggles": 1553, 
+	"chat_toggles": 8159, 
+	"ignoring": [], 
+	"key_bindings": {
+		"Admin": [
+			"F3"
+		], 
+		"admin_ghost": [
+			"F5"
+		], 
+		"player_panel_new": [
+			"F6"
+		], 
+		"toggle_buildmode_self": [
+			"F7"
+		], 
+		"stealth_mode": [
+			"CtrlF8"
+		], 
+		"invisimin": [
+			"F8"
+		], 
+		"dsay": [
+			"F10"
+		], 
+		"deadmin": [], 
+		"readmin": [], 
+		"view_tags": [
+			"F9"
+		], 
+		"reconnect": [
+			"-"
+		], 
+		"toggle_throw_mode": [
+			"R", 
+			"Southwest"
+		], 
+		"hold_throw_mode": [
+			"Space"
+		], 
+		"Give_Item": [
+			"G"
+		], 
+		"toggle_safety": [
+			"ShiftF"
+		], 
+		"admin_help": [
+			"F1"
+		], 
+		"screenshot": [
+			"F2"
+		], 
+		"minimal_hud": [
+			"F12"
+		], 
+		"Say": [
+			"T"
+		], 
+		"Radio": [
+			";"
+		], 
+		"OOC": [
+			"O"
+		], 
+		"Me": [
+			"M"
+		], 
+		"LOOC": [
+			"L"
+		], 
+		"Whis": [
+			"Y"
+		], 
+		"Do": [
+			"K"
+		], 
+		"do_longer": [
+			"CtrlK"
+		], 
+		"quick_equip": [
+			"E"
+		], 
+		"quick_equip_belt": [
+			"ShiftE"
+		], 
+		"quick_equip_bag": [
+			"ShiftB"
+		], 
+		"quick_equip_suit_storage": [
+			"ShiftQ"
+		], 
+		"quick_equip_lpocket": [
+			"Ctrl1"
+		], 
+		"quick_equip_rpocket": [
+			"Ctrl2"
+		], 
+		"resist": [
+			"B"
+		], 
+		"look up": [
+			"P"
+		], 
+		"look down": [
+			"["
+		], 
+		"rest": [
+			"U"
+		], 
+		"toggle_combat_mode": [
+			"F"
+		], 
+		"enable_combat_mode": [
+			"4"
+		], 
+		"disable_combat_mode": [
+			"1"
+		], 
+		"toggle_move_intent": [
+			"Alt"
+		], 
+		"toggle_move_intent_alt": [], 
+		"combat_indicator": [
+			"C"
+		], 
+		"stop_pulling": [
+			"H", 
+			"Delete"
+		], 
+		"swap_hands": [
+			"X"
+		], 
+		"activate_inhand": [
+			"Z"
+		], 
+		"drop_item": [
+			"Q"
+		], 
+		"target_head_cycle": [
+			"Numpad8"
+		], 
+		"target_head": [], 
+		"target_eyes": [
+			"Numpad7"
+		], 
+		"target_mouths": [
+			"Numpad9"
+		], 
+		"target_r_arm": [
+			"Numpad4"
+		], 
+		"target_body_chest": [
+			"Numpad5"
+		], 
+		"target_left_arm": [
+			"Numpad6"
+		], 
+		"target_right_leg": [
+			"Numpad1"
+		], 
+		"target_body_groin": [
+			"Numpad2"
+		], 
+		"target_left_leg": [
+			"Numpad3"
+		], 
+		"block_movement": [
+			"Ctrl"
+		], 
+		"pixel_shift": [
+			"B"
+		], 
+		"North": [
+			"W", 
+			"North"
+		], 
+		"South": [
+			"S", 
+			"South"
+		], 
+		"West": [
+			"A", 
+			"West"
+		], 
+		"East": [
+			"D", 
+			"East"
+		], 
+		"Upwards": [
+			"Northeast"
+		], 
+		"Downwards": [
+			"Southeast"
+		], 
+		"module_one": [
+			"1"
+		], 
+		"module_two": [
+			"2"
+		], 
+		"module_three": [
+			"3"
+		], 
+		"unequip_module": [
+			"Q"
+		], 
+		"undeploy": [
+			"="
+		], 
+		"point": [], 
+		"me": [], 
+		"help": [], 
+		"flip": [], 
+		"spin": [], 
+		"blush": [], 
+		"tunesing": [], 
+		"bow": [], 
+		"burp": [], 
+		"choke": [], 
+		"cross": [], 
+		"chuckle": [], 
+		"collapse": [], 
+		"dance": [], 
+		"deathgasp": [], 
+		"drool": [], 
+		"faint": [], 
+		"flap": [], 
+		"aflap": [], 
+		"frown": [], 
+		"gag": [], 
+		"gasp": [], 
+		"gaspshock": [], 
+		"giggle": [], 
+		"glare": [], 
+		"grin": [], 
+		"groan": [], 
+		"grimace": [], 
+		"jump": [], 
+		"kiss": [], 
+		"laugh": [], 
+		"look": [], 
+		"nod": [], 
+		"cry": [], 
+		"glasses": [], 
+		"dap": [], 
+		"eyebrow": [], 
+		"cough": [], 
+		"sneeze": [], 
+		"grumble": [], 
+		"handshake": [], 
+		"hug": [], 
+		"mumble": [], 
+		"scream": [], 
+		"screech": [], 
+		"pale": [], 
+		"raise": [], 
+		"salute": [], 
+		"shrug": [], 
+		"wag": [], 
+		"wing": [], 
+		"clear": [], 
+		"gnarl": [], 
+		"roll": [], 
+		"scratch": [], 
+		"roar": [], 
+		"tail": [], 
+		"sign": [], 
+		"whistle": [], 
+		"airguitar": [], 
+		"blink": [], 
+		"blink_r": [], 
+		"crack": [], 
+		"circle": [], 
+		"moan": [], 
+		"noogie": [], 
+		"signal": [], 
+		"slap": [], 
+		"hand": [], 
+		"snap": [], 
+		"shoesteal": [], 
+		"wink": [], 
+		"pout": [], 
+		"scowl": [], 
+		"shake": [], 
+		"shiver": [], 
+		"sigh": [], 
+		"sit": [], 
+		"smile": [], 
+		"smug": [], 
+		"sniff": [], 
+		"snore": [], 
+		"stare": [], 
+		"stretch": [], 
+		"sulk": [], 
+		"surrender": [], 
+		"sway": [], 
+		"tilt": [], 
+		"tremble": [], 
+		"twitch": [], 
+		"twitch_s": [], 
+		"wave": [], 
+		"whimper": [], 
+		"wsmile": [], 
+		"yawn": [], 
+		"gurgle": [], 
+		"beep": [], 
+		"inhale": [], 
+		"exhale": [], 
+		"swear": [], 
+		"hiss": [], 
+		"mdash": [], 
+		"quill": [], 
+		"peep": [], 
+		"peep2": [], 
+		"snap2": [], 
+		"snap3": [], 
+		"awoo": [], 
+		"nya": [], 
+		"weh": [], 
+		"msqueak": [], 
+		"squeak": [], 
+		"merp": [], 
+		"bark": [], 
+		"squish": [], 
+		"meow": [], 
+		"hiss1": [], 
+		"chitter": [], 
+		"clap": [], 
+		"clap1": [], 
+		"blink2": [], 
+		"rblink": [], 
+		"squint": [], 
+		"smirk": [], 
+		"eyeroll": [], 
+		"huffs": [], 
+		"etwitch": [], 
+		"bawk": [], 
+		"caw": [], 
+		"caw2": [], 
+		"blep": [], 
+		"bork": [], 
+		"hoot": [], 
+		"growl": [], 
+		"woof": [], 
+		"baa": [], 
+		"baa2": [], 
+		"wurble": [], 
+		"rattle": [], 
+		"cackle": [], 
+		"warble": [], 
+		"trills": [], 
+		"rpurr": [], 
+		"purr": [], 
+		"moo": [], 
+		"honk1": [], 
+		"gnash": [], 
+		"thump": [], 
+		"flutter": [], 
+		"esigh": [], 
+		"dwoop": [], 
+		"yes": [], 
+		"no": [], 
+		"boop": [], 
+		"buzz": [], 
+		"beep2": [], 
+		"buzz2": [], 
+		"chime": [], 
+		"honk": [], 
+		"ping": [], 
+		"sad": [], 
+		"warn": [], 
+		"slowclap": [], 
+		"laughtrack": [], 
+		"sweatdrop": [], 
+		"exclaim": [], 
+		"question": [], 
+		"realize": [], 
+		"annoyed": [], 
+		"turf": [], 
+		"shiftlayerup": [], 
+		"shiftlayerdown": [], 
+		"lewdmoan": [], 
+		"treply": [], 
+		"subtle": [], 
+		"subtler": [], 
+		"ooga": [], 
+		"bounce": [], 
+		"jiggle": [], 
+		"light": [], 
+		"vibrate": [], 
+		"moodnone": [], 
+		"moodsneaky": [], 
+		"moodsmile": [], 
+		"moodcat": [], 
+		"moodpout": [], 
+		"moodsad": [], 
+		"moodangry": [], 
+		"alarm": [], 
+		"alert": [], 
+		"flash": [], 
+		"notice": [], 
+		"blank": [], 
+		"veryhappy": [], 
+		"happy": [], 
+		"neutral": [], 
+		"unsure": [], 
+		"confused": [], 
+		"bsod": [], 
+		"trollface": [], 
+		"awesome": [], 
+		"dorfy": [], 
+		"thinking": [], 
+		"facepalm": [], 
+		"friendcomputer": [], 
+		"blueglow": [], 
+		"redglow": [], 
+		"exme": []
+	}, 
+	"hearted_until": null, 
+	"favorite_outfits": [], 
+	"character1": {
+		"species": "mammal", 
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": {
+			"Warden": 2, 
+			"Nanotrasen Consultant": 3
+		}, 
+		"all_quirks": [
+			"Sadism"
+		], 
+		"loadout_list": [], 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"tail": {
+				"name": "Zorgoia tail", 
+				"color": [
+					"#34c685", 
+					"#54f1f3", 
+					"#111111"
+				]
+			}, 
+			"snout": {
+				"name": "Otie", 
+				"color": [
+					"#06b798", 
+					"#34c685", 
+					"#bafe9c"
+				]
+			}, 
+			"ears": {
+				"name": "Sergal", 
+				"color": [
+					"#34c685", 
+					"#6ec59e", 
+					"#97e8e9"
+				]
+			}, 
+			"breasts": {
+				"name": "Pair", 
+				"color": [
+					"#34c685", 
+					"#4ef7ee", 
+					"#20305a"
+				]
+			}
+		}, 
+		"body_markings": [], 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": {
+			"Blueshield": "Executive Protection Agent", 
+			"Nanotrasen Consultant": "Nanotrasen Diplomat", 
+			"Atmospheric Technician": "Emergency Fire Technician", 
+			"Station Engineer": "Apprentice Engineer", 
+			"Research Director": "Chief Science Officer", 
+			"Geneticist": "Mutation Researcher", 
+			"Roboticist": "Cyberneticist", 
+			"Scientist": "Ordnance Technician", 
+			"AI": "Automated Overseer", 
+			"Cyborg": "Robot", 
+			"Assistant": "Off-Duty Staff", 
+			"Prisoner": "Protective Custody Prisoner", 
+			"Captain": "Commanding Officer", 
+			"Head of Personnel": "Executive Officer", 
+			"Barber": "Stylist", 
+			"Bartender": "Barkeeper", 
+			"Botanist": "Hydroponicist", 
+			"Chaplain": "Shrine Maiden", 
+			"Curator": "Librarian", 
+			"Janitor": "Sanitation Technician", 
+			"Lawyer": "Internal Affairs Agent", 
+			"Psychologist": "Psychiatrist", 
+			"Quartermaster": "Logistics Coordinator", 
+			"Bitrunner": "Netdiver", 
+			"Cargo Technician": "Warehouse Technician", 
+			"Shaft Miner": "Apprentice Miner", 
+			"Head of Security": "Security Commander", 
+			"Detective": "Forensic Technician", 
+			"Security Officer": "Peacekeeper", 
+			"Chief Medical Officer": "Medical Director", 
+			"Chemist": "Trainee Pharmacist", 
+			"Coroner": "Medical Examiner", 
+			"Medical Doctor": "Surgeon", 
+			"Paramedic": "Trauma Team Responder", 
+			"Virologist": "Junior Pathologist"
+		}, 
+		"languages": {
+			"/datum/language/common": 2, 
+			"/datum/language/xerxian": 2, 
+			"/datum/language/spacer": 2
+		}, 
+		"headshot": "", 
+		"modular_version": 5, 
+		"food_preferences": {
+			"enabled": 1
+		}, 
+		"gender": "female", 
+		"backpack": "Department Duffel Bag", 
+		"jumpsuit_style": "Jumpskirt", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"prefered_security_department": "Medical", 
+		"feature_tail": "Zorgoia tail", 
+		"feature_snout": "Otie", 
+		"feature_ears": "Sergal", 
+		"bra": "Nude", 
+		"erp_status_pref_nc": "Yes - Sub", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical only", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"feature_breasts": "Pair", 
+		"feature_anus": "None", 
+		"breasts_size": "P", 
+		"character_laugh": "Human Laugh", 
+		"character_scream": "Human Scream", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"height_scaling": 14, 
+		"age": 22, 
+		"chrono_age": 22, 
+		"persistent_scars": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"ears_toggle": 1, 
+		"taur_toggle": 0, 
+		"allow_genitals_toggle": 1, 
+		"allow_mismatched_parts_toggle": 1, 
+		"custom_species": "Spireborn Zorgoia", 
+		"breasts_color": [
+			"#34c685", 
+			"#4ef7ee", 
+			"#20305a"
+		], 
+		"mutant_colors_color": [
+			"#34c685", 
+			"#a24a98", 
+			"#e92e8e"
+		], 
+		"tail_color": [
+			"#34c685", 
+			"#54f1f3", 
+			"#111111"
+		], 
+		"snout_color": [
+			"#06b798", 
+			"#34c685", 
+			"#bafe9c"
+		], 
+		"ears_color": [
+			"#34c685", 
+			"#6ec59e", 
+			"#97e8e9"
+		], 
+		"facial_style_name": "Shaved", 
+		"hair_gradient": "Reflected Inverse", 
+		"eye_color": "#ffff00", 
+		"body_type": "female", 
+		"brain_type": "Circuitboard", 
+		"real_name": "Shana Schaftwerk", 
+		"clown_name": "Space Asshole", 
+		"mime_name": "Silent Riot", 
+		"cyborg_name": "Bim-B0-V9874", 
+		"ai_name": "SHA-DOS", 
+		"religion_name": "The Way Of The Spire", 
+		"deity_name": "The Veldram Spire", 
+		"bible_name": "The Scriptures Of The Spire", 
+		"operative_alias": "Jacket", 
+		"body_size": 5.7, 
+		"junkie": "Random", 
+		"smoker": "Random", 
+		"alcoholic": "Random", 
+		"preferred_ai_core_display": "Gondola", 
+		"preferred_ai_emote_display": "Very Happy", 
+		"preferred_ai_hologram_display": "Bear", 
+		"food_allergy": "Random", 
+		"glasses": "Regular", 
+		"hemiplegic": "Right Side", 
+		"language": "Sylvan", 
+		"pda_theme": "NtOS Dark Mode", 
+		"phobia": "anime", 
+		"pride_pin": "Man-Loving-Man / Gay Pride", 
+		"prisoner_crime": "Random", 
+		"prosthetic": "Random", 
+		"prosthetic_organ": "Liver", 
+		"random_body": 2, 
+		"random_name": 2, 
+		"skin_tone": "mixed3", 
+		"trans_prosthetic": "Right Leg", 
+		"uplink_loc": "PDA", 
+		"tts_voice": "invalid", 
+		"facial_hair_gradient": "None", 
+		"hairstyle_name": "Hairfre", 
+		"feature_ethcolor": "Cyan Blue", 
+		"feature_vampire_status": "Inoculated", 
+		"photophobia_severity": "Sensitive", 
+		"feature_body_markings": "None", 
+		"feature_horns": "None", 
+		"feature_wings": "None", 
+		"feature_frills": "None", 
+		"feature_spines": "None", 
+		"feature_caps": "None", 
+		"feature_moth_antennae": "None", 
+		"feature_moth_markings": "None", 
+		"feature_fluff": "None", 
+		"feature_ipc_screen": "None", 
+		"feature_ipc_antenna": "None", 
+		"feature_ipc_chassis": "Default Chassis", 
+		"feature_ipc_head": "Default Head", 
+		"feature_skrell_hair": "None", 
+		"feature_taur": "None", 
+		"feature_xenodorsal": "None", 
+		"feature_xenohead": "None", 
+		"feature_head_acc": "None", 
+		"feature_neck_acc": "None", 
+		"feature_pod_hair": "Ivy", 
+		"erp_status_pref": "Ask (L)OOC", 
+		"feature_penis": "None", 
+		"feature_testicles": "None", 
+		"penis_sheath": "None", 
+		"loadout_override_preference": "Move job to backpack", 
+		"snout_sensitivity": "Collapse", 
+		"entombed_skin": "Civilian", 
+		"antag_opt_in_status_pref": 0, 
+		"vox_bodycolor": "default", 
+		"echolocation_key": "Psychic", 
+		"pet_owner": "Random", 
+		"pet_gender": "plural", 
+		"underworld_uplink_skin": "Default Black Market Uplink", 
+		"heterochromatic": "#e44ef9", 
+		"paint_color": "#302677", 
+		"underwear_color": "#eab6b0", 
+		"facial_hair_color": "#967eaf", 
+		"facial_hair_gradient_color": "#e8d58d", 
+		"hair_color": "#00ffff", 
+		"hair_gradient_color": "#7548fc", 
+		"nv_color": "#de90da", 
+		"ipc_screen_color": "#3aee67", 
+		"ipc_chassis_color": "#8129d9", 
+		"ipc_head_color": "#7bd065", 
+		"undershirt_color": "#d4273f", 
+		"socks_color": "#360ad5", 
+		"bra_color": "#602d44", 
+		"ic_chat_color": "#0df2f2", 
+		"echolocation_outline": "#457284", 
+		"tts_voice_pitch": 0, 
+		"fragile_brute": 1.25, 
+		"fragile_burn": 1.25, 
+		"penis_length": 6, 
+		"penis_girth": 5, 
+		"balls_size": 2, 
+		"feature_hair_opacity": 255, 
+		"dc_starting_degradation": 0, 
+		"dc_max_degradation": 500, 
+		"dc_living_degradation_recovery_per_second": 0.01, 
+		"dc_dead_degradation_per_second": 0, 
+		"dc_degradation_on_death": 50, 
+		"dc_formeldahyde_dead_degradation_mult": 0, 
+		"dc_stasis_dead_degradation_mult": 0, 
+		"dc_rezadone_living_degradation_reduction": 0.4, 
+		"dc_eigenstasium_degradation_reduction": 5, 
+		"dc_crit_threshold_reduction_min_percent_of_max": 0, 
+		"dc_crit_threshold_reduction_percent_of_max": 100, 
+		"dc_max_crit_threshold_reduction": 30, 
+		"dc_stamina_damage_min_percent_of_max": 20, 
+		"dc_stamina_damage_percent_of_max": 100, 
+		"dc_max_stamina_damage": 80, 
+		"operative_species": 0, 
+		"playtime_reward_cloak": 1, 
+		"random_hardcore": 0, 
+		"green_pin": 0, 
+		"body_markings_toggle": 0, 
+		"horns_toggle": 0, 
+		"wings_toggle": 0, 
+		"frills_toggle": 0, 
+		"spines_toggle": 0, 
+		"caps_toggle": 0, 
+		"moth_antennae_toggle": 0, 
+		"moth_markings_toggle": 0, 
+		"fluff_toggle": 0, 
+		"feature_hair_opacity_toggle": 0, 
+		"skrell_hair_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"head_acc_toggle": 0, 
+		"neck_acc_toggle": 0, 
+		"ipc_screen_emissive": 1, 
+		"pod_hair_emissive": 1, 
+		"penis_skin_tone": 0, 
+		"testicles_skin_tone": 0, 
+		"vagina_skin_tone": 0, 
+		"breasts_skin_tone": 0, 
+		"penis_skin_color": 0, 
+		"testicles_skin_color": 0, 
+		"vagina_skin_color": 0, 
+		"breasts_skin_color": 0, 
+		"penis_taur_mode_toggle": 0, 
+		"breasts_lactation_toggle": 1, 
+		"allow_mismatched_hair_color_toggle": 1, 
+		"allow_emissives_toggle": 0, 
+		"eye_emissives": 0, 
+		"dc_permakill_at_max": 0, 
+		"dc_force_death_if_permakilled": 0, 
+		"entombed_deploy_lock": 1, 
+		"echolocation_use_echo": 1, 
+		"pda_ringtone": "beep", 
+		"flavor_text": "", 
+		"silicon_flavor_text": "", 
+		"ooc_notes": "", 
+		"custom_species_lore": "", 
+		"general_record": "", 
+		"medical_record": "", 
+		"security_record": "", 
+		"exploitable_info": "Used by antagonists. DO NOT PUT SEXUAL THINGS IN HERE. This is where you put flaws that can be exploited in any way. This will be viewable by antagonists if you modify this string, but only if there's anything at all in this box.", 
+		"background_info": "", 
+		"entombed_mod_name": null, 
+		"entombed_mod_desc": null, 
+		"entombed_mod_prefix": "Fused", 
+		"pet_name": null, 
+		"pet_desc": null, 
+		"underworld_uplink_name": null, 
+		"underworld_uplink_desc": null, 
+		"human_name": "Clement Otis", 
+		"penis_color": [
+			"#8c1a50", 
+			"#e257e4", 
+			"#930dd0"
+		], 
+		"testicles_color": [
+			"#4b98d5", 
+			"#5eb0b0", 
+			"#709c14"
+		], 
+		"vagina_color": [
+			"#1fe991", 
+			"#fc8aed", 
+			"#6f0655"
+		], 
+		"body_markings_color": [
+			"#24d134", 
+			"#1db27e", 
+			"#34cce0"
+		], 
+		"horns_color": [
+			"#71c387", 
+			"#07bc46", 
+			"#5df33f"
+		], 
+		"wings_color": [
+			"#981e75", 
+			"#11a213", 
+			"#af31e0"
+		], 
+		"frills_color": [
+			"#de5e01", 
+			"#9e05eb", 
+			"#bba912"
+		], 
+		"spines_color": [
+			"#d7ea78", 
+			"#99b0f3", 
+			"#cd8059"
+		], 
+		"caps_color": [
+			"#831dff", 
+			"#698f5d", 
+			"#4e4ba0"
+		], 
+		"moth_antennae_color": [
+			"#3741ab", 
+			"#7f6f1b", 
+			"#f9dbaa"
+		], 
+		"moth_markings_color": [
+			"#b10e7f", 
+			"#a34d15", 
+			"#7de3e1"
+		], 
+		"fluff_color": [
+			"#e971f7", 
+			"#83c66b", 
+			"#76a1d0"
+		], 
+		"ipc_antenna_color": [
+			"#80fb47", 
+			"#04b407", 
+			"#4e597f"
+		], 
+		"skrell_hair_color": [
+			"#60b669", 
+			"#dbf7a0", 
+			"#4900b6"
+		], 
+		"taur_color": [
+			"#c53be2", 
+			"#42a94a", 
+			"#c916c6"
+		], 
+		"xenodorsal_color": [
+			"#05f56c", 
+			"#eb8a39", 
+			"#a3a60d"
+		], 
+		"xenohead_color": [
+			"#3b4533", 
+			"#ae9403", 
+			"#32a5f2"
+		], 
+		"head_acc_color": [
+			"#9dc74f", 
+			"#b90013", 
+			"#19b54b"
+		], 
+		"neck_acc_color": [
+			"#38e81d", 
+			"#392ea1", 
+			"#ce097c"
+		], 
+		"pod_hair_color": [
+			"#8d5e62", 
+			"#de22b9", 
+			"#67d313"
+		], 
+		"penis_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"testicles_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"vagina_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"breasts_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"body_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tail_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"snout_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"horns_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ears_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"wings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"frills_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"spines_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"caps_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_antennae_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"fluff_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ipc_antenna_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"skrell_hair_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"taur_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenodorsal_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenohead_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"head_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"neck_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tgui_prefs_migration": 1
+	}, 
+	"character2": {
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": [], 
+		"all_quirks": [], 
+		"loadout_list": [], 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"ears": {
+				"name": "Big Wolf", 
+				"color": [
+					"#ffffff", 
+					"#41852c", 
+					"#21f067"
+				]
+			}, 
+			"breasts": {
+				"name": "Pair", 
+				"color": [
+					"#ffffff", 
+					"#d38084", 
+					"#1b827d"
+				]
+			}, 
+			"snout": {
+				"name": "Husky", 
+				"color": [
+					"#ffffff", 
+					"#f437e6", 
+					"#95c983"
+				]
+			}, 
+			"tail": {
+				"name": "Fox", 
+				"color": [
+					"#ffffff", 
+					"#e5f593", 
+					"#d7f74e"
+				]
+			}
+		}, 
+		"body_markings": [], 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": [], 
+		"languages": {
+			"/datum/language/common": 2
+		}, 
+		"headshot": "", 
+		"modular_version": 5, 
+		"food_preferences": [], 
+		"species": "mammal", 
+		"backpack": "Department Duffel Bag", 
+		"jumpsuit_style": "Jumpskirt", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"bra": "Nude", 
+		"facial_style_name": "Shaved", 
+		"feature_breasts": "Pair", 
+		"feature_anus": "Anus", 
+		"breasts_size": "P", 
+		"height_scaling": 14, 
+		"allow_genitals_toggle": 1, 
+		"breasts_lactation_toggle": 1, 
+		"breasts_color": [
+			"#ffffff", 
+			"#d38084", 
+			"#1b827d"
+		], 
+		"mutant_colors_color": [
+			"#ffffff", 
+			"#581eaa", 
+			"#b167f2"
+		], 
+		"hairstyle_name": "Long Hair 1", 
+		"hair_gradient": "Reflected", 
+		"eye_color": "#ffff00", 
+		"hair_color": "#00ffff", 
+		"hair_gradient_color": "#ff00ff", 
+		"body_type": "female", 
+		"real_name": "Kali", 
+		"character_scream": "Human Scream", 
+		"antag_opt_in_status_pref": 2, 
+		"operative_species": 0, 
+		"allow_mismatched_parts_toggle": 1, 
+		"allow_emissives_toggle": 0, 
+		"ic_chat_color": "#0df2f2", 
+		"junkie": "Random", 
+		"smoker": "Random", 
+		"alcoholic": "Random", 
+		"preferred_ai_core_display": "HAL 9000", 
+		"preferred_ai_emote_display": "Sad", 
+		"preferred_ai_hologram_display": "Random", 
+		"food_allergy": "Random", 
+		"gender": "female", 
+		"glasses": "Random", 
+		"hemiplegic": "Right Side", 
+		"language": "Mothic", 
+		"pda_theme": "NtOS", 
+		"phobia": "anime", 
+		"pride_pin": "Pansexual Pride", 
+		"prisoner_crime": "Random", 
+		"prosthetic": "Left Arm", 
+		"prosthetic_organ": "Liver", 
+		"random_body": 2, 
+		"random_name": 2, 
+		"prefered_security_department": "None", 
+		"skin_tone": "mixed1", 
+		"trans_prosthetic": "Random", 
+		"uplink_loc": "PDA", 
+		"tts_voice": "invalid", 
+		"facial_hair_gradient": "None", 
+		"feature_ethcolor": "Red", 
+		"feature_vampire_status": "Inoculated", 
+		"photophobia_severity": "Sensitive", 
+		"feature_body_markings": "None", 
+		"feature_tail": "Fox", 
+		"feature_snout": "Husky", 
+		"feature_horns": "None", 
+		"feature_ears": "Big Wolf", 
+		"feature_wings": "None", 
+		"feature_frills": "None", 
+		"feature_spines": "None", 
+		"feature_caps": "None", 
+		"feature_moth_antennae": "None", 
+		"feature_moth_markings": "None", 
+		"feature_fluff": "None", 
+		"feature_ipc_screen": "None", 
+		"feature_ipc_antenna": "None", 
+		"feature_ipc_chassis": "Default Chassis", 
+		"feature_ipc_head": "Default Head", 
+		"feature_skrell_hair": "None", 
+		"feature_taur": "None", 
+		"feature_xenodorsal": "None", 
+		"feature_xenohead": "None", 
+		"feature_head_acc": "None", 
+		"feature_neck_acc": "None", 
+		"feature_pod_hair": "Ivy", 
+		"brain_type": "Positronic Brain", 
+		"erp_status_pref": "Ask (L)OOC", 
+		"erp_status_pref_nc": "Yes - Sub", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical and Roleplay", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_penis": "None", 
+		"feature_testicles": "None", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"penis_sheath": "None", 
+		"character_laugh": "Human Laugh", 
+		"loadout_override_preference": "Move job to backpack", 
+		"snout_sensitivity": "Collapse", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"entombed_skin": "Civilian", 
+		"vox_bodycolor": "default", 
+		"echolocation_key": "Auditory/Vibrational", 
+		"pet_owner": "Random", 
+		"pet_gender": "plural", 
+		"underworld_uplink_skin": "Default Black Market Uplink", 
+		"heterochromatic": "#7a69b2", 
+		"paint_color": "#f593a6", 
+		"underwear_color": "#1ccb92", 
+		"facial_hair_color": "#563d91", 
+		"facial_hair_gradient_color": "#99cd89", 
+		"nv_color": "#f8b2c5", 
+		"ipc_screen_color": "#2a25af", 
+		"ipc_chassis_color": "#09a5cb", 
+		"ipc_head_color": "#d1d6ca", 
+		"undershirt_color": "#58d8e4", 
+		"socks_color": "#0d250b", 
+		"bra_color": "#925ee9", 
+		"echolocation_outline": "#3a925b", 
+		"age": 21, 
+		"tts_voice_pitch": 0, 
+		"fragile_brute": 1.25, 
+		"fragile_burn": 1.25, 
+		"body_size": 5.4, 
+		"chrono_age": 21, 
+		"penis_length": 6, 
+		"penis_girth": 5, 
+		"balls_size": 2, 
+		"feature_hair_opacity": 255, 
+		"dc_starting_degradation": 0, 
+		"dc_max_degradation": 500, 
+		"dc_living_degradation_recovery_per_second": 0.01, 
+		"dc_dead_degradation_per_second": 0, 
+		"dc_degradation_on_death": 50, 
+		"dc_formeldahyde_dead_degradation_mult": 0, 
+		"dc_stasis_dead_degradation_mult": 0, 
+		"dc_rezadone_living_degradation_reduction": 0.4, 
+		"dc_eigenstasium_degradation_reduction": 5, 
+		"dc_crit_threshold_reduction_min_percent_of_max": 0, 
+		"dc_crit_threshold_reduction_percent_of_max": 100, 
+		"dc_max_crit_threshold_reduction": 30, 
+		"dc_stamina_damage_min_percent_of_max": 20, 
+		"dc_stamina_damage_percent_of_max": 100, 
+		"dc_max_stamina_damage": 80, 
+		"persistent_scars": 0, 
+		"playtime_reward_cloak": 1, 
+		"random_hardcore": 0, 
+		"green_pin": 0, 
+		"body_markings_toggle": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"horns_toggle": 0, 
+		"ears_toggle": 1, 
+		"wings_toggle": 0, 
+		"frills_toggle": 0, 
+		"spines_toggle": 0, 
+		"caps_toggle": 0, 
+		"moth_antennae_toggle": 0, 
+		"moth_markings_toggle": 0, 
+		"fluff_toggle": 0, 
+		"feature_hair_opacity_toggle": 0, 
+		"skrell_hair_toggle": 0, 
+		"taur_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"head_acc_toggle": 0, 
+		"neck_acc_toggle": 0, 
+		"ipc_screen_emissive": 1, 
+		"pod_hair_emissive": 1, 
+		"penis_skin_tone": 0, 
+		"testicles_skin_tone": 0, 
+		"vagina_skin_tone": 0, 
+		"breasts_skin_tone": 0, 
+		"penis_skin_color": 0, 
+		"testicles_skin_color": 0, 
+		"vagina_skin_color": 0, 
+		"breasts_skin_color": 0, 
+		"penis_taur_mode_toggle": 0, 
+		"allow_mismatched_hair_color_toggle": 1, 
+		"eye_emissives": 0, 
+		"dc_permakill_at_max": 0, 
+		"dc_force_death_if_permakilled": 0, 
+		"entombed_deploy_lock": 1, 
+		"echolocation_use_echo": 1, 
+		"pda_ringtone": "beep", 
+		"flavor_text": "", 
+		"silicon_flavor_text": "", 
+		"ooc_notes": "", 
+		"custom_species": "", 
+		"custom_species_lore": "", 
+		"general_record": "", 
+		"medical_record": "", 
+		"security_record": "", 
+		"exploitable_info": "Used by antagonists. DO NOT PUT SEXUAL THINGS IN HERE. This is where you put flaws that can be exploited in any way. This will be viewable by antagonists if you modify this string, but only if there's anything at all in this box.", 
+		"background_info": "", 
+		"entombed_mod_name": null, 
+		"entombed_mod_desc": null, 
+		"entombed_mod_prefix": "Fused", 
+		"pet_name": null, 
+		"pet_desc": null, 
+		"underworld_uplink_name": null, 
+		"underworld_uplink_desc": null, 
+		"human_name": "Nymr Sverretvr", 
+		"clown_name": "Freckle", 
+		"mime_name": "Mute", 
+		"cyborg_name": "Default Cyborg Name", 
+		"ai_name": "T-850", 
+		"religion_name": "Clownism", 
+		"deity_name": "Space Jesus", 
+		"bible_name": "Default Bible Name", 
+		"operative_alias": "Thirteen", 
+		"penis_color": [
+			"#b72c5e", 
+			"#fa9f5b", 
+			"#008bde"
+		], 
+		"testicles_color": [
+			"#628dba", 
+			"#e54cc6", 
+			"#8b2853"
+		], 
+		"vagina_color": [
+			"#292929", 
+			"#be4bf8", 
+			"#5cb904"
+		], 
+		"body_markings_color": [
+			"#15f30f", 
+			"#9b26c1", 
+			"#8e7e5a"
+		], 
+		"tail_color": [
+			"#ffffff", 
+			"#292929", 
+			"#d7f74e"
+		], 
+		"snout_color": [
+			"#ffffff", 
+			"#ffffff", 
+			"#95c983"
+		], 
+		"horns_color": [
+			"#9a59bd", 
+			"#fca623", 
+			"#5bafa3"
+		], 
+		"ears_color": [
+			"#ffffff", 
+			"#292929", 
+			"#21f067"
+		], 
+		"wings_color": [
+			"#aa746b", 
+			"#dfe948", 
+			"#29eec9"
+		], 
+		"frills_color": [
+			"#85e05b", 
+			"#a6a03f", 
+			"#3a1610"
+		], 
+		"spines_color": [
+			"#3d1756", 
+			"#1a4534", 
+			"#4c4df8"
+		], 
+		"caps_color": [
+			"#a3a863", 
+			"#64ae4a", 
+			"#f0541b"
+		], 
+		"moth_antennae_color": [
+			"#4da6b2", 
+			"#701d06", 
+			"#64f879"
+		], 
+		"moth_markings_color": [
+			"#f7da7b", 
+			"#a04950", 
+			"#73c268"
+		], 
+		"fluff_color": [
+			"#e76f7d", 
+			"#4cb910", 
+			"#577499"
+		], 
+		"ipc_antenna_color": [
+			"#25305b", 
+			"#7bc7a5", 
+			"#69f901"
+		], 
+		"skrell_hair_color": [
+			"#639fc0", 
+			"#12a778", 
+			"#2cfe81"
+		], 
+		"taur_color": [
+			"#91a4fb", 
+			"#b3fa78", 
+			"#c32728"
+		], 
+		"xenodorsal_color": [
+			"#ab23c4", 
+			"#2ae06d", 
+			"#fec4c2"
+		], 
+		"xenohead_color": [
+			"#5531fb", 
+			"#d551cf", 
+			"#6670dd"
+		], 
+		"head_acc_color": [
+			"#e59507", 
+			"#5093b5", 
+			"#0afa66"
+		], 
+		"neck_acc_color": [
+			"#9e3483", 
+			"#2a3085", 
+			"#3ce01e"
+		], 
+		"pod_hair_color": [
+			"#16b286", 
+			"#09e59e", 
+			"#438151"
+		], 
+		"penis_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"testicles_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"vagina_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"breasts_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"body_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tail_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"snout_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"horns_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ears_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"wings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"frills_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"spines_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"caps_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_antennae_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"fluff_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ipc_antenna_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"skrell_hair_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"taur_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenodorsal_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenohead_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"head_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"neck_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tgui_prefs_migration": 1
+	}, 
+	"character3": {
+		"backpack": "Department Duffel Bag", 
+		"jumpsuit_style": "Jumpskirt", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"prefered_security_department": "Medical", 
+		"feature_tail": "Sergal", 
+		"feature_snout": "Sergal", 
+		"feature_ears": "Sergal", 
+		"bra": "Nude", 
+		"erp_status_pref_nc": "Yes - Sub", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical and Roleplay", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_penis": "Knotted", 
+		"feature_testicles": "Pair", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"feature_anus": "Anus", 
+		"penis_sheath": "Sheath", 
+		"character_laugh": "Human Laugh", 
+		"character_scream": "Human Scream", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"antag_opt_in_status_pref": 2, 
+		"height_scaling": 14, 
+		"age": 21, 
+		"chrono_age": 21, 
+		"penis_length": 7, 
+		"balls_size": 3, 
+		"operative_species": 0, 
+		"persistent_scars": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"ears_toggle": 1, 
+		"taur_toggle": 0, 
+		"allow_mismatched_parts_toggle": 1, 
+		"penis_color": [
+			"#292929", 
+			"#81a77d", 
+			"#0b68c2"
+		], 
+		"testicles_color": [
+			"#ffffff", 
+			"#5d0c6a", 
+			"#a43fea"
+		], 
+		"vagina_color": [
+			"#ffffff", 
+			"#0463c4", 
+			"#e2aa2b"
+		], 
+		"mutant_colors_color": [
+			"#93746c", 
+			"#2d7cba", 
+			"#a580c6"
+		], 
+		"tail_color": [
+			"#292929", 
+			"#0c64f4", 
+			"#c1d285"
+		], 
+		"snout_color": [
+			"#ffffff", 
+			"#eebb6d", 
+			"#04cb24"
+		], 
+		"ears_color": [
+			"#292929", 
+			"#4af9dc", 
+			"#a3e97b"
+		], 
+		"species": "mammal", 
+		"facial_style_name": "Shaved", 
+		"hairstyle_name": "Long Hair 3", 
+		"hair_gradient": "Reflected Inverse", 
+		"eye_color": "#ffff00", 
+		"hair_color": "#00ffff", 
+		"hair_gradient_color": "#ff66ff", 
+		"gender": "female", 
+		"body_type": "female", 
+		"brain_type": "Circuitboard", 
+		"real_name": "Vanya Nahar", 
+		"ic_chat_color": "#0df2f2", 
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": {
+			"Blueshield": 3
+		}, 
+		"all_quirks": [], 
+		"loadout_list": {
+			"/obj/item/toy/plush/nova/medihound": []
+		}, 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"snout": {
+				"name": "Sergal", 
+				"color": [
+					"#ffffff", 
+					"#eebb6d", 
+					"#04cb24"
+				]
+			}, 
+			"tail": {
+				"name": "Sergal", 
+				"color": [
+					"#292929", 
+					"#0c64f4", 
+					"#c1d285"
+				]
+			}, 
+			"ears": {
+				"name": "Sergal", 
+				"color": [
+					"#292929", 
+					"#4af9dc", 
+					"#a3e97b"
+				]
+			}
+		}, 
+		"body_markings": {
+			"chest": {
+				"Sergal": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"head": {
+				"Sergal": [
+					"#ffffff", 
+					0
+				]
+			}
+		}, 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": [], 
+		"languages": {
+			"/datum/language/common": 2, 
+			"/datum/language/xerxian": 2, 
+			"/datum/language/yangyu": 2
+		}, 
+		"headshot": "", 
+		"modular_version": 5, 
+		"food_preferences": [], 
+		"body_size": 5.3, 
+		"junkie": "Random", 
+		"smoker": "Random", 
+		"alcoholic": "Random", 
+		"preferred_ai_core_display": "Triumvirate-M", 
+		"preferred_ai_emote_display": "Happy", 
+		"preferred_ai_hologram_display": "Xeno Queen", 
+		"food_allergy": "Random", 
+		"glasses": "Jamjar", 
+		"hemiplegic": "Left Side", 
+		"language": "Slime", 
+		"pda_theme": "NtOS", 
+		"phobia": "blood", 
+		"pride_pin": "Rainbow Pride", 
+		"prisoner_crime": "Random", 
+		"prosthetic": "Left Leg", 
+		"prosthetic_organ": "Heart", 
+		"random_body": 2, 
+		"random_name": 2, 
+		"skin_tone": "caucasian2", 
+		"trans_prosthetic": "Left Leg", 
+		"uplink_loc": "PDA", 
+		"tts_voice": "invalid", 
+		"facial_hair_gradient": "None", 
+		"feature_ethcolor": "Dark Blue", 
+		"feature_vampire_status": "Inoculated", 
+		"photophobia_severity": "Hypersensitive", 
+		"feature_body_markings": "None", 
+		"feature_horns": "None", 
+		"feature_wings": "None", 
+		"feature_frills": "None", 
+		"feature_spines": "None", 
+		"feature_caps": "None", 
+		"feature_moth_antennae": "None", 
+		"feature_moth_markings": "None", 
+		"feature_fluff": "None", 
+		"feature_ipc_screen": "None", 
+		"feature_ipc_antenna": "None", 
+		"feature_ipc_chassis": "Default Chassis", 
+		"feature_ipc_head": "Default Head", 
+		"feature_skrell_hair": "None", 
+		"feature_taur": "None", 
+		"feature_xenodorsal": "None", 
+		"feature_xenohead": "None", 
+		"feature_head_acc": "None", 
+		"feature_neck_acc": "None", 
+		"feature_pod_hair": "Ivy", 
+		"erp_status_pref": "Ask (L)OOC", 
+		"feature_breasts": "None", 
+		"breasts_size": "C", 
+		"loadout_override_preference": "Move job to backpack", 
+		"snout_sensitivity": "Collapse", 
+		"entombed_skin": "Civilian", 
+		"vox_bodycolor": "default", 
+		"echolocation_key": "Psychic", 
+		"pet_owner": "Random", 
+		"pet_gender": "plural", 
+		"underworld_uplink_skin": "Default Black Market Uplink", 
+		"heterochromatic": "#4f6f60", 
+		"paint_color": "#afb506", 
+		"underwear_color": "#21be9e", 
+		"facial_hair_color": "#97c9dd", 
+		"facial_hair_gradient_color": "#c203ca", 
+		"nv_color": "#c133c1", 
+		"ipc_screen_color": "#df99ed", 
+		"ipc_chassis_color": "#781f2e", 
+		"ipc_head_color": "#0a0232", 
+		"undershirt_color": "#b9273a", 
+		"socks_color": "#819578", 
+		"bra_color": "#b0410e", 
+		"echolocation_outline": "#33e648", 
+		"tts_voice_pitch": 0, 
+		"fragile_brute": 1.25, 
+		"fragile_burn": 1.25, 
+		"penis_girth": 5, 
+		"feature_hair_opacity": 255, 
+		"dc_starting_degradation": 0, 
+		"dc_max_degradation": 500, 
+		"dc_living_degradation_recovery_per_second": 0.01, 
+		"dc_dead_degradation_per_second": 0, 
+		"dc_degradation_on_death": 50, 
+		"dc_formeldahyde_dead_degradation_mult": 0, 
+		"dc_stasis_dead_degradation_mult": 0, 
+		"dc_rezadone_living_degradation_reduction": 0.4, 
+		"dc_eigenstasium_degradation_reduction": 5, 
+		"dc_crit_threshold_reduction_min_percent_of_max": 0, 
+		"dc_crit_threshold_reduction_percent_of_max": 100, 
+		"dc_max_crit_threshold_reduction": 30, 
+		"dc_stamina_damage_min_percent_of_max": 20, 
+		"dc_stamina_damage_percent_of_max": 100, 
+		"dc_max_stamina_damage": 80, 
+		"playtime_reward_cloak": 1, 
+		"random_hardcore": 0, 
+		"green_pin": 0, 
+		"body_markings_toggle": 0, 
+		"horns_toggle": 0, 
+		"wings_toggle": 0, 
+		"frills_toggle": 0, 
+		"spines_toggle": 0, 
+		"caps_toggle": 0, 
+		"moth_antennae_toggle": 0, 
+		"moth_markings_toggle": 0, 
+		"fluff_toggle": 0, 
+		"feature_hair_opacity_toggle": 0, 
+		"skrell_hair_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"head_acc_toggle": 0, 
+		"neck_acc_toggle": 0, 
+		"ipc_screen_emissive": 1, 
+		"pod_hair_emissive": 1, 
+		"allow_genitals_toggle": 1, 
+		"penis_skin_tone": 0, 
+		"testicles_skin_tone": 0, 
+		"vagina_skin_tone": 0, 
+		"breasts_skin_tone": 0, 
+		"penis_skin_color": 0, 
+		"testicles_skin_color": 0, 
+		"vagina_skin_color": 0, 
+		"breasts_skin_color": 0, 
+		"penis_taur_mode_toggle": 0, 
+		"breasts_lactation_toggle": 0, 
+		"allow_mismatched_hair_color_toggle": 1, 
+		"allow_emissives_toggle": 0, 
+		"eye_emissives": 0, 
+		"dc_permakill_at_max": 0, 
+		"dc_force_death_if_permakilled": 0, 
+		"entombed_deploy_lock": 1, 
+		"echolocation_use_echo": 1, 
+		"pda_ringtone": "beep", 
+		"flavor_text": "", 
+		"silicon_flavor_text": "", 
+		"ooc_notes": "", 
+		"custom_species": "", 
+		"custom_species_lore": "", 
+		"general_record": "", 
+		"medical_record": "", 
+		"security_record": "", 
+		"exploitable_info": "Used by antagonists. DO NOT PUT SEXUAL THINGS IN HERE. This is where you put flaws that can be exploited in any way. This will be viewable by antagonists if you modify this string, but only if there's anything at all in this box.", 
+		"background_info": "", 
+		"entombed_mod_name": null, 
+		"entombed_mod_desc": null, 
+		"entombed_mod_prefix": "Fused", 
+		"pet_name": null, 
+		"pet_desc": null, 
+		"underworld_uplink_name": null, 
+		"underworld_uplink_desc": null, 
+		"human_name": "Ming Mengdao", 
+		"clown_name": "Red April", 
+		"mime_name": "Silent Night", 
+		"cyborg_name": "Default Cyborg Name", 
+		"ai_name": "SID 6 7", 
+		"religion_name": "Judaism", 
+		"deity_name": "Space Jesus", 
+		"bible_name": "Default Bible Name", 
+		"operative_alias": "Freeman", 
+		"breasts_color": [
+			"#b2b9a7", 
+			"#39c53e", 
+			"#92263f"
+		], 
+		"body_markings_color": [
+			"#2e4e53", 
+			"#676a06", 
+			"#f45bfe"
+		], 
+		"horns_color": [
+			"#2548de", 
+			"#b7b4e6", 
+			"#e4255f"
+		], 
+		"wings_color": [
+			"#0d235e", 
+			"#b25574", 
+			"#ae744e"
+		], 
+		"frills_color": [
+			"#8bdbc1", 
+			"#fc5cd2", 
+			"#a0d38e"
+		], 
+		"spines_color": [
+			"#892669", 
+			"#d94d01", 
+			"#d1c321"
+		], 
+		"caps_color": [
+			"#decf1e", 
+			"#00727c", 
+			"#2fa430"
+		], 
+		"moth_antennae_color": [
+			"#0ca810", 
+			"#1f5d32", 
+			"#1f8f36"
+		], 
+		"moth_markings_color": [
+			"#9de7b0", 
+			"#215aec", 
+			"#ec6d06"
+		], 
+		"fluff_color": [
+			"#645659", 
+			"#6f1ce3", 
+			"#f4332f"
+		], 
+		"ipc_antenna_color": [
+			"#9e74da", 
+			"#e4cedd", 
+			"#765617"
+		], 
+		"skrell_hair_color": [
+			"#88d154", 
+			"#c91353", 
+			"#87c367"
+		], 
+		"taur_color": [
+			"#ac156b", 
+			"#34b42c", 
+			"#da593e"
+		], 
+		"xenodorsal_color": [
+			"#7266c6", 
+			"#2fc506", 
+			"#f34aa9"
+		], 
+		"xenohead_color": [
+			"#308b2b", 
+			"#b1669b", 
+			"#1d72cc"
+		], 
+		"head_acc_color": [
+			"#f70a28", 
+			"#6618f9", 
+			"#b6cf0e"
+		], 
+		"neck_acc_color": [
+			"#385af0", 
+			"#5d97b1", 
+			"#e3e3c7"
+		], 
+		"pod_hair_color": [
+			"#8d6afb", 
+			"#be4855", 
+			"#2d9119"
+		], 
+		"penis_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"testicles_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"vagina_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"breasts_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"body_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tail_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"snout_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"horns_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ears_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"wings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"frills_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"spines_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"caps_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_antennae_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"fluff_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ipc_antenna_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"skrell_hair_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"taur_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenodorsal_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenohead_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"head_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"neck_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tgui_prefs_migration": 1
+	}, 
+	"character4": {
+		"species": "mammal", 
+		"gender": "female", 
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": {
+			"Scientist": 3, 
+			"Bitrunner": 2, 
+			"Orderly": 2
+		}, 
+		"all_quirks": [], 
+		"loadout_list": {
+			"/obj/item/toy/plush/nova/mechanic_fox": [], 
+			"/obj/item/storage/medkit/civil_defense/stocked": [], 
+			"/obj/item/clothing/head/beret/science": [], 
+			"/obj/item/clothing/gloves/color/black": [], 
+			"/obj/item/clothing/glasses/hud/ar/projector/science": [], 
+			"/obj/item/clothing/neck/kink_collar": [], 
+			"/obj/item/clothing/suit/costume/soviet": [], 
+			"/obj/item/toy/plush/pkplush": [], 
+			"/obj/item/toy/plush/nova/medihound": []
+		}, 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"snout": {
+				"name": "Mammal, Long", 
+				"color": [
+					"#292929", 
+					"#0788e1", 
+					"#af49be"
+				]
+			}, 
+			"ears": {
+				"name": "Sergal", 
+				"color": [
+					"#292929", 
+					"#3c15b8", 
+					"#527b89"
+				]
+			}, 
+			"tail": {
+				"name": "Zorgoia tail", 
+				"color": [
+					"#292929", 
+					"#880a47", 
+					"#3b8ecd"
+				]
+			}, 
+			"breasts": {
+				"name": "P", 
+				"color": [
+					"#292929", 
+					"#81622b", 
+					"#dbbea8"
+				]
+			}
+		}, 
+		"body_markings": [], 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": {
+			"Scientist": "Ordnance Technician", 
+			"Bitrunner": "Bitrunner", 
+			"Prisoner": "Protective Custody Prisoner"
+		}, 
+		"languages": {
+			"/datum/language/common": 2, 
+			"/datum/language/yangyu": 2, 
+			"/datum/language/xerxian": 2
+		}, 
+		"headshot": "", 
+		"modular_version": 5, 
+		"food_preferences": [], 
+		"junkie": "Random", 
+		"smoker": "Random", 
+		"alcoholic": "Random", 
+		"preferred_ai_core_display": "Clown", 
+		"preferred_ai_emote_display": "Unsure", 
+		"preferred_ai_hologram_display": "Default", 
+		"body_type": "female", 
+		"backpack": "Department Duffel Bag", 
+		"jumpsuit_style": "Jumpskirt", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"food_allergy": "Random", 
+		"glasses": "Thin", 
+		"hemiplegic": "Left Side", 
+		"language": "Random", 
+		"pda_theme": "NtOS Dark Mode", 
+		"phobia": "space", 
+		"pride_pin": "Man-Loving-Man / Gay Pride", 
+		"prisoner_crime": "Random", 
+		"prosthetic": "Left Arm", 
+		"prosthetic_organ": "Lungs", 
+		"random_body": 2, 
+		"random_name": 2, 
+		"prefered_security_department": "Science", 
+		"skin_tone": "albino", 
+		"trans_prosthetic": "Flashlights for Eyes", 
+		"uplink_loc": "PDA", 
+		"tts_voice": "invalid", 
+		"facial_style_name": "Shaved", 
+		"facial_hair_gradient": "Reflected Inverse", 
+		"hairstyle_name": "Slightly Messy", 
+		"hair_gradient": "Reflected Inverse", 
+		"feature_ethcolor": "Bright Yellow", 
+		"feature_vampire_status": "Inoculated", 
+		"photophobia_severity": "Sensitive", 
+		"feature_body_markings": "None", 
+		"feature_tail": "Zorgoia tail", 
+		"feature_snout": "Mammal, Long", 
+		"feature_horns": "None", 
+		"feature_ears": "Sergal", 
+		"feature_wings": "None", 
+		"feature_frills": "None", 
+		"feature_spines": "None", 
+		"feature_caps": "None", 
+		"feature_moth_antennae": "None", 
+		"feature_moth_markings": "None", 
+		"feature_fluff": "None", 
+		"feature_ipc_screen": "None", 
+		"feature_ipc_antenna": "None", 
+		"feature_ipc_chassis": "Default Chassis", 
+		"feature_ipc_head": "Default Head", 
+		"feature_skrell_hair": "None", 
+		"feature_taur": "None", 
+		"feature_xenodorsal": "None", 
+		"feature_xenohead": "None", 
+		"feature_head_acc": "None", 
+		"feature_neck_acc": "None", 
+		"feature_pod_hair": "Ivy", 
+		"brain_type": "Circuitboard", 
+		"bra": "Nude", 
+		"erp_status_pref": "Ask (L)OOC", 
+		"erp_status_pref_nc": "Yes - Sub", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical and Roleplay", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_penis": "None", 
+		"feature_testicles": "None", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"feature_breasts": "Pair", 
+		"feature_anus": "None", 
+		"penis_sheath": "None", 
+		"breasts_size": "P", 
+		"character_laugh": "No Laugh", 
+		"loadout_override_preference": "Move job to backpack", 
+		"character_scream": "No Scream", 
+		"snout_sensitivity": "Collapse", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"entombed_skin": "Civilian", 
+		"antag_opt_in_status_pref": 0, 
+		"vox_bodycolor": "default", 
+		"echolocation_key": "Auditory/Vibrational", 
+		"height_scaling": 12, 
+		"pet_owner": "Random", 
+		"pet_gender": "plural", 
+		"underworld_uplink_skin": "Default Black Market Uplink", 
+		"heterochromatic": "#80ddaa", 
+		"paint_color": "#316f4f", 
+		"underwear_color": "#41879f", 
+		"eye_color": "#ffff00", 
+		"facial_hair_color": "#5d0258", 
+		"facial_hair_gradient_color": "#00ffff", 
+		"hair_color": "#e733c1", 
+		"hair_gradient_color": "#00ffff", 
+		"nv_color": "#669141", 
+		"ipc_screen_color": "#9f0897", 
+		"ipc_chassis_color": "#0c57c4", 
+		"ipc_head_color": "#33e8a2", 
+		"undershirt_color": "#f8e30e", 
+		"socks_color": "#2f93c2", 
+		"bra_color": "#c55abd", 
+		"ic_chat_color": "#0df2f2", 
+		"echolocation_outline": "#d1eb71", 
+		"age": 22, 
+		"tts_voice_pitch": 0, 
+		"fragile_brute": 1.25, 
+		"fragile_burn": 1.25, 
+		"body_size": 4.8, 
+		"chrono_age": 22, 
+		"penis_length": 6, 
+		"penis_girth": 5, 
+		"balls_size": 2, 
+		"feature_hair_opacity": 255, 
+		"dc_starting_degradation": 0, 
+		"dc_max_degradation": 500, 
+		"dc_living_degradation_recovery_per_second": 0.01, 
+		"dc_dead_degradation_per_second": 0, 
+		"dc_degradation_on_death": 50, 
+		"dc_formeldahyde_dead_degradation_mult": 0, 
+		"dc_stasis_dead_degradation_mult": 0, 
+		"dc_rezadone_living_degradation_reduction": 0.4, 
+		"dc_eigenstasium_degradation_reduction": 5, 
+		"dc_crit_threshold_reduction_min_percent_of_max": 0, 
+		"dc_crit_threshold_reduction_percent_of_max": 100, 
+		"dc_max_crit_threshold_reduction": 30, 
+		"dc_stamina_damage_min_percent_of_max": 20, 
+		"dc_stamina_damage_percent_of_max": 100, 
+		"dc_max_stamina_damage": 80, 
+		"operative_species": 0, 
+		"persistent_scars": 0, 
+		"playtime_reward_cloak": 1, 
+		"random_hardcore": 0, 
+		"green_pin": 0, 
+		"body_markings_toggle": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"horns_toggle": 0, 
+		"ears_toggle": 1, 
+		"wings_toggle": 0, 
+		"frills_toggle": 0, 
+		"spines_toggle": 0, 
+		"caps_toggle": 0, 
+		"moth_antennae_toggle": 0, 
+		"moth_markings_toggle": 0, 
+		"fluff_toggle": 0, 
+		"feature_hair_opacity_toggle": 0, 
+		"skrell_hair_toggle": 0, 
+		"taur_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"head_acc_toggle": 0, 
+		"neck_acc_toggle": 0, 
+		"ipc_screen_emissive": 1, 
+		"pod_hair_emissive": 1, 
+		"allow_genitals_toggle": 1, 
+		"penis_skin_tone": 0, 
+		"testicles_skin_tone": 0, 
+		"vagina_skin_tone": 0, 
+		"breasts_skin_tone": 0, 
+		"penis_skin_color": 0, 
+		"testicles_skin_color": 0, 
+		"vagina_skin_color": 0, 
+		"breasts_skin_color": 0, 
+		"penis_taur_mode_toggle": 0, 
+		"breasts_lactation_toggle": 1, 
+		"allow_mismatched_parts_toggle": 1, 
+		"allow_mismatched_hair_color_toggle": 1, 
+		"allow_emissives_toggle": 0, 
+		"eye_emissives": 0, 
+		"dc_permakill_at_max": 0, 
+		"dc_force_death_if_permakilled": 0, 
+		"entombed_deploy_lock": 1, 
+		"echolocation_use_echo": 1, 
+		"pda_ringtone": "beep", 
+		"flavor_text": "", 
+		"silicon_flavor_text": "", 
+		"ooc_notes": "", 
+		"custom_species": "Spireborn Zorgoia", 
+		"custom_species_lore": "", 
+		"general_record": "", 
+		"medical_record": "", 
+		"security_record": "", 
+		"exploitable_info": "Used by antagonists. DO NOT PUT SEXUAL THINGS IN HERE. This is where you put flaws that can be exploited in any way. This will be viewable by antagonists if you modify this string, but only if there's anything at all in this box.", 
+		"background_info": "", 
+		"entombed_mod_name": null, 
+		"entombed_mod_desc": null, 
+		"entombed_mod_prefix": "Fused", 
+		"pet_name": null, 
+		"pet_desc": null, 
+		"underworld_uplink_name": null, 
+		"underworld_uplink_desc": null, 
+		"real_name": "Xahara Nabaal", 
+		"human_name": "Colby Cavalet", 
+		"clown_name": "ZorZor Supreme", 
+		"mime_name": "Silent Riot", 
+		"cyborg_name": "Default Cyborg Name", 
+		"ai_name": "DE1TA", 
+		"religion_name": "The Way Of The Spire", 
+		"deity_name": "The Veldram Spire", 
+		"bible_name": "The Scriptures Of The Spire", 
+		"operative_alias": "Epsilon Alpha-3", 
+		"penis_color": [
+			"#29b110", 
+			"#0c49b8", 
+			"#ac5761"
+		], 
+		"testicles_color": [
+			"#000ecc", 
+			"#30777b", 
+			"#c80f85"
+		], 
+		"vagina_color": [
+			"#292929", 
+			"#0b0691", 
+			"#d21d37"
+		], 
+		"breasts_color": [
+			"#292929", 
+			"#81622b", 
+			"#dbbea8"
+		], 
+		"mutant_colors_color": [
+			"#292929", 
+			"#ffffff", 
+			"#3399ff"
+		], 
+		"body_markings_color": [
+			"#2e37e4", 
+			"#276db7", 
+			"#1ab925"
+		], 
+		"tail_color": [
+			"#292929", 
+			"#3c15b8", 
+			"#3b8ecd"
+		], 
+		"snout_color": [
+			"#292929", 
+			"#292929", 
+			"#af49be"
+		], 
+		"horns_color": [
+			"#ff5e85", 
+			"#478225", 
+			"#e99a98"
+		], 
+		"ears_color": [
+			"#292929", 
+			"#3c15b8", 
+			"#527b89"
+		], 
+		"wings_color": [
+			"#07aeb1", 
+			"#9ef9b0", 
+			"#353847"
+		], 
+		"frills_color": [
+			"#7476a9", 
+			"#aba9cb", 
+			"#12d6dd"
+		], 
+		"spines_color": [
+			"#a24767", 
+			"#5fe73e", 
+			"#2e24d1"
+		], 
+		"caps_color": [
+			"#62b9ab", 
+			"#91fb24", 
+			"#5c99e2"
+		], 
+		"moth_antennae_color": [
+			"#5c9dd6", 
+			"#1abb57", 
+			"#9c4f8f"
+		], 
+		"moth_markings_color": [
+			"#6ef1ed", 
+			"#34c873", 
+			"#1d527d"
+		], 
+		"fluff_color": [
+			"#4768d4", 
+			"#ecb992", 
+			"#d0b33c"
+		], 
+		"ipc_antenna_color": [
+			"#ca515c", 
+			"#080bf7", 
+			"#f22a1e"
+		], 
+		"skrell_hair_color": [
+			"#6a017f", 
+			"#d1cc26", 
+			"#bd21cd"
+		], 
+		"taur_color": [
+			"#9b9e99", 
+			"#cae3d2", 
+			"#3700f4"
+		], 
+		"xenodorsal_color": [
+			"#d01200", 
+			"#a0058a", 
+			"#e41cc8"
+		], 
+		"xenohead_color": [
+			"#9408ec", 
+			"#f3e9b1", 
+			"#a1faf2"
+		], 
+		"head_acc_color": [
+			"#9b4953", 
+			"#fcd84e", 
+			"#a6dea0"
+		], 
+		"neck_acc_color": [
+			"#62e05f", 
+			"#c8cb2d", 
+			"#25ac48"
+		], 
+		"pod_hair_color": [
+			"#99f8aa", 
+			"#41c605", 
+			"#9f992a"
+		], 
+		"penis_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"testicles_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"vagina_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"breasts_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"body_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tail_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"snout_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"horns_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ears_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"wings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"frills_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"spines_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"caps_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_antennae_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"fluff_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ipc_antenna_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"skrell_hair_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"taur_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenodorsal_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenohead_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"head_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"neck_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tgui_prefs_migration": 1
+	}, 
+	"character5": {
+		"backpack": "Department Duffel Bag", 
+		"species": "mammal", 
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": {
+			"Warden": 3, 
+			"Orderly": 2, 
+			"Bitrunner": 1, 
+			"Scientist": 2
+		}, 
+		"all_quirks": [], 
+		"loadout_list": [], 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"tail": {
+				"name": "Kitsune (Septuple)", 
+				"color": [
+					"#ffffff", 
+					"#938028", 
+					"#a6ce76"
+				]
+			}, 
+			"snout": {
+				"name": "Mammal, Long", 
+				"color": [
+					"#4284af", 
+					"#ffffff", 
+					"#033252"
+				]
+			}, 
+			"ears": {
+				"name": "Fox", 
+				"color": [
+					"#ffffff", 
+					"#aca239", 
+					"#c35936"
+				]
+			}, 
+			"breasts": {
+				"name": "M", 
+				"color": [
+					"#ffffff", 
+					"#96806e", 
+					"#02b712"
+				]
+			}
+		}, 
+		"body_markings": {
+			"chest": {
+				"Fox": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"head": {
+				"Fox": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"l_leg": {
+				"Fox": [
+					"#ffffff", 
+					0
+				], 
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"r_leg": {
+				"Fox": [
+					"#ffffff", 
+					0
+				], 
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"l_hand": {
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"r_hand": {
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"l_arm": {
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}, 
+			"r_arm": {
+				"Fox Sock": [
+					"#ffffff", 
+					0
+				]
+			}
+		}, 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": {
+			"Warden": "Warden", 
+			"Scientist": "Cytologist", 
+			"Paramedic": "Trauma Team Responder"
+		}, 
+		"languages": {
+			"/datum/language/common": 2, 
+			"/datum/language/yangyu": 2
+		}, 
+		"headshot": null, 
+		"modular_version": 5, 
+		"food_preferences": [], 
+		"jumpsuit_style": "Jumpskirt", 
+		"gender": "female", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"prefered_security_department": "Medical", 
+		"feature_tail": "Kitsune (Septuple)", 
+		"feature_snout": "Mammal, Long", 
+		"feature_ears": "Fox", 
+		"feature_taur": "Cybernetic Lizard (Inverted)", 
+		"bra": "Nude", 
+		"erp_status_pref_nc": "Ask (L)OOC", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical and Roleplay", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_penis": "Knotted", 
+		"feature_testicles": "Pair", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"feature_breasts": "Pair", 
+		"feature_anus": "Anus", 
+		"penis_sheath": "Sheath", 
+		"breasts_size": "M", 
+		"character_laugh": "No Laugh", 
+		"character_scream": "No Scream", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"antag_opt_in_status_pref": 1, 
+		"height_scaling": 14, 
+		"age": 20, 
+		"body_size": 5, 
+		"chrono_age": 24, 
+		"penis_length": 17, 
+		"balls_size": 3, 
+		"operative_species": 0, 
+		"persistent_scars": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"ears_toggle": 1, 
+		"fluff_toggle": 0, 
+		"taur_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"breasts_lactation_toggle": 1, 
+		"allow_mismatched_parts_toggle": 1, 
+		"custom_species": "Kitsune", 
+		"penis_color": [
+			"#292929", 
+			"#d8fe64", 
+			"#78210a"
+		], 
+		"testicles_color": [
+			"#ffffff", 
+			"#cc4ed4", 
+			"#f4162c"
+		], 
+		"vagina_color": [
+			"#292929", 
+			"#a6333a", 
+			"#800af7"
+		], 
+		"breasts_color": [
+			"#ffffff", 
+			"#96806e", 
+			"#02b712"
+		], 
+		"mutant_colors_color": [
+			"#ffffff", 
+			"#ff0000", 
+			"#465413"
+		], 
+		"tail_color": [
+			"#ffffff", 
+			"#ff0000", 
+			"#a6ce76"
+		], 
+		"snout_color": [
+			"#4284af", 
+			"#ffffff", 
+			"#033252"
+		], 
+		"ears_color": [
+			"#ffffff", 
+			"#ff0000", 
+			"#c35936"
+		], 
+		"facial_style_name": "Shaved", 
+		"hairstyle_name": "Bald", 
+		"hair_gradient": "Spiked Wavy", 
+		"eye_color": "#ffff00", 
+		"hair_color": "#ffffff", 
+		"hair_gradient_color": "#ff0000", 
+		"body_type": "female", 
+		"brain_type": "Circuitboard", 
+		"real_name": "Xhuhi Xiao", 
+		"human_name": "Ayden Edwards", 
+		"clown_name": "Jock Fuckhead", 
+		"mime_name": "Ghostrunner", 
+		"ai_name": "Cathode-HL7", 
+		"religion_name": "Kitsu-Neotheology", 
+		"deity_name": "Inari", 
+		"bible_name": "Sakura Stars", 
+		"operative_alias": "Kitsu-9", 
+		"ic_chat_color": "#f20d0d"
+	}, 
+	"character6": {
+		"backpack": "Department Duffel Bag", 
+		"jumpsuit_style": "Jumpskirt", 
+		"socks": "Nude", 
+		"undershirt": "Nude", 
+		"underwear": "Nude", 
+		"prefered_security_department": "Medical", 
+		"feature_tail": "Kitsune (Septuple)", 
+		"feature_snout": "Mammal, Long", 
+		"feature_ears": "Fox", 
+		"bra": "Nude", 
+		"erp_status_pref_nc": "Ask (L)OOC", 
+		"erp_status_pref_v": "Yes - Pred", 
+		"erp_status_pref_mechanics": "Mechanical and Roleplay", 
+		"erp_status_pref_hypnosis": "Ask (L)OOC", 
+		"feature_vagina": "Spade", 
+		"feature_womb": "Normal", 
+		"feature_breasts": "Pair", 
+		"feature_anus": "Anus", 
+		"breasts_size": "P", 
+		"character_laugh": "No Laugh", 
+		"character_scream": "No Scream", 
+		"digitigrade_legs": "Digitigrade Legs", 
+		"antag_opt_in_status_pref": 1, 
+		"height_scaling": 14, 
+		"age": 21, 
+		"chrono_age": 21, 
+		"operative_species": 0, 
+		"persistent_scars": 0, 
+		"tail_toggle": 1, 
+		"snout_toggle": 1, 
+		"ears_toggle": 1, 
+		"breasts_lactation_toggle": 1, 
+		"custom_species": "Kumiho", 
+		"vagina_color": [
+			"#292929", 
+			"#e18552", 
+			"#63d196"
+		], 
+		"breasts_color": [
+			"#292929", 
+			"#103069", 
+			"#3ea826"
+		], 
+		"mutant_colors_color": [
+			"#292929", 
+			"#c34fdd", 
+			"#5f8d03"
+		], 
+		"tail_color": [
+			"#292929", 
+			"#ff0000", 
+			"#0575f9"
+		], 
+		"snout_color": [
+			"#954ad9", 
+			"#292929", 
+			"#a4e7df"
+		], 
+		"ears_color": [
+			"#292929", 
+			"#ff0000", 
+			"#bb26e2"
+		], 
+		"species": "mammal", 
+		"facial_style_name": "Shaved", 
+		"hairstyle_name": "Bald", 
+		"eye_color": "#ffff00", 
+		"body_type": "female", 
+		"brain_type": "Circuitboard", 
+		"real_name": "Ku Mi-Kyung", 
+		"clown_name": "Fox Fuckhead", 
+		"mime_name": "Souleater", 
+		"cyborg_name": "Bitch Breaker", 
+		"ai_name": "FO-XO", 
+		"religion_name": "The Dark Paths", 
+		"deity_name": "The Elder One", 
+		"bible_name": "The Dark Texts", 
+		"operative_alias": "Umbra-11", 
+		"ic_chat_color": "#f20d0d", 
+		"version": 44, 
+		"randomise": [], 
+		"job_preferences": {
+			"Coroner": 3, 
+			"Orderly": 2, 
+			"Paramedic": 2, 
+			"Scientist": 2, 
+			"Bitrunner": 1
+		}, 
+		"all_quirks": [], 
+		"loadout_list": [], 
+		"augments": [], 
+		"augment_limb_styles": [], 
+		"features": [], 
+		"mutant_bodyparts": {
+			"tail": {
+				"name": "Kitsune (Septuple)", 
+				"color": [
+					"#292929", 
+					"#8f4773", 
+					"#0575f9"
+				]
+			}, 
+			"ears": {
+				"name": "Fox", 
+				"color": [
+					"#292929", 
+					"#9793f6", 
+					"#bb26e2"
+				]
+			}, 
+			"snout": {
+				"name": "Mammal, Long", 
+				"color": [
+					"#954ad9", 
+					"#292929", 
+					"#a4e7df"
+				]
+			}, 
+			"breasts": {
+				"name": "Pair", 
+				"color": [
+					"#292929", 
+					"#103069", 
+					"#3ea826"
+				]
+			}
+		}, 
+		"body_markings": [], 
+		"mismatched_customization": null, 
+		"allow_advanced_colors": null, 
+		"alt_job_titles": {
+			"Coroner": "Medical Examiner", 
+			"Scientist": "Cytologist"
+		}, 
+		"languages": {
+			"/datum/language/common": 2, 
+			"/datum/language/yangyu": 2, 
+			"/datum/language/xerxian": 2
+		}, 
+		"headshot": "", 
+		"modular_version": 5, 
+		"food_preferences": [], 
+		"body_size": 4.9, 
+		"junkie": "Random", 
+		"smoker": "Random", 
+		"alcoholic": "Random", 
+		"preferred_ai_core_display": "Random", 
+		"preferred_ai_emote_display": "BSOD", 
+		"preferred_ai_hologram_display": "Random", 
+		"food_allergy": "Random", 
+		"gender": "female", 
+		"glasses": "Modern", 
+		"hemiplegic": "Right Side", 
+		"language": "Skrelluq", 
+		"pda_theme": "NtOS", 
+		"phobia": "aliens", 
+		"pride_pin": "Asexual Pride", 
+		"prisoner_crime": "Random", 
+		"prosthetic": "Left Arm", 
+		"prosthetic_organ": "Liver", 
+		"random_body": 2, 
+		"random_name": 2, 
+		"skin_tone": "latino", 
+		"trans_prosthetic": "Right Leg", 
+		"uplink_loc": "PDA", 
+		"tts_voice": "invalid", 
+		"facial_hair_gradient": "None", 
+		"hair_gradient": "None", 
+		"feature_ethcolor": "Bright Yellow", 
+		"feature_vampire_status": "Inoculated", 
+		"photophobia_severity": "Hypersensitive", 
+		"feature_body_markings": "None", 
+		"feature_horns": "None", 
+		"feature_wings": "None", 
+		"feature_frills": "None", 
+		"feature_spines": "None", 
+		"feature_caps": "None", 
+		"feature_moth_antennae": "None", 
+		"feature_moth_markings": "None", 
+		"feature_fluff": "None", 
+		"feature_ipc_screen": "None", 
+		"feature_ipc_antenna": "None", 
+		"feature_ipc_chassis": "Default Chassis", 
+		"feature_ipc_head": "Default Head", 
+		"feature_skrell_hair": "None", 
+		"feature_taur": "None", 
+		"feature_xenodorsal": "None", 
+		"feature_xenohead": "None", 
+		"feature_head_acc": "None", 
+		"feature_neck_acc": "None", 
+		"feature_pod_hair": "Ivy", 
+		"erp_status_pref": "Ask (L)OOC", 
+		"feature_penis": "None", 
+		"feature_testicles": "None", 
+		"penis_sheath": "None", 
+		"loadout_override_preference": "Move job to backpack", 
+		"snout_sensitivity": "Collapse", 
+		"entombed_skin": "Civilian", 
+		"vox_bodycolor": "default", 
+		"echolocation_key": "Auditory/Vibrational", 
+		"pet_owner": "Random", 
+		"pet_gender": "plural", 
+		"underworld_uplink_skin": "Default Black Market Uplink", 
+		"heterochromatic": "#6e1a1c", 
+		"paint_color": "#6396cc", 
+		"underwear_color": "#9012c4", 
+		"facial_hair_color": "#b1432a", 
+		"facial_hair_gradient_color": "#b07102", 
+		"hair_color": "#e75cea", 
+		"hair_gradient_color": "#c364af", 
+		"nv_color": "#cb65f7", 
+		"ipc_screen_color": "#77110d", 
+		"ipc_chassis_color": "#d735dd", 
+		"ipc_head_color": "#7a1093", 
+		"undershirt_color": "#675e1e", 
+		"socks_color": "#783eb9", 
+		"bra_color": "#b763e7", 
+		"echolocation_outline": "#553329", 
+		"tts_voice_pitch": 0, 
+		"fragile_brute": 1.25, 
+		"fragile_burn": 1.25, 
+		"penis_length": 6, 
+		"penis_girth": 5, 
+		"balls_size": 2, 
+		"feature_hair_opacity": 255, 
+		"dc_starting_degradation": 0, 
+		"dc_max_degradation": 500, 
+		"dc_living_degradation_recovery_per_second": 0.01, 
+		"dc_dead_degradation_per_second": 0, 
+		"dc_degradation_on_death": 50, 
+		"dc_formeldahyde_dead_degradation_mult": 0, 
+		"dc_stasis_dead_degradation_mult": 0, 
+		"dc_rezadone_living_degradation_reduction": 0.4, 
+		"dc_eigenstasium_degradation_reduction": 5, 
+		"dc_crit_threshold_reduction_min_percent_of_max": 0, 
+		"dc_crit_threshold_reduction_percent_of_max": 100, 
+		"dc_max_crit_threshold_reduction": 30, 
+		"dc_stamina_damage_min_percent_of_max": 20, 
+		"dc_stamina_damage_percent_of_max": 100, 
+		"dc_max_stamina_damage": 80, 
+		"playtime_reward_cloak": 1, 
+		"random_hardcore": 0, 
+		"green_pin": 0, 
+		"body_markings_toggle": 0, 
+		"horns_toggle": 0, 
+		"wings_toggle": 0, 
+		"frills_toggle": 0, 
+		"spines_toggle": 0, 
+		"caps_toggle": 0, 
+		"moth_antennae_toggle": 0, 
+		"moth_markings_toggle": 0, 
+		"fluff_toggle": 0, 
+		"feature_hair_opacity_toggle": 0, 
+		"skrell_hair_toggle": 0, 
+		"taur_toggle": 0, 
+		"xenodorsal_toggle": 0, 
+		"xenohead_toggle": 0, 
+		"head_acc_toggle": 0, 
+		"neck_acc_toggle": 0, 
+		"ipc_screen_emissive": 1, 
+		"pod_hair_emissive": 1, 
+		"allow_genitals_toggle": 1, 
+		"penis_skin_tone": 0, 
+		"testicles_skin_tone": 0, 
+		"vagina_skin_tone": 0, 
+		"breasts_skin_tone": 1, 
+		"penis_skin_color": 0, 
+		"testicles_skin_color": 0, 
+		"vagina_skin_color": 0, 
+		"breasts_skin_color": 1, 
+		"penis_taur_mode_toggle": 0, 
+		"allow_mismatched_parts_toggle": 0, 
+		"allow_mismatched_hair_color_toggle": 1, 
+		"allow_emissives_toggle": 0, 
+		"eye_emissives": 0, 
+		"dc_permakill_at_max": 0, 
+		"dc_force_death_if_permakilled": 0, 
+		"entombed_deploy_lock": 1, 
+		"echolocation_use_echo": 1, 
+		"pda_ringtone": "beep", 
+		"flavor_text": "", 
+		"silicon_flavor_text": "", 
+		"ooc_notes": "", 
+		"custom_species_lore": "", 
+		"general_record": "", 
+		"medical_record": "", 
+		"security_record": "", 
+		"exploitable_info": "Used by antagonists. DO NOT PUT SEXUAL THINGS IN HERE. This is where you put flaws that can be exploited in any way. This will be viewable by antagonists if you modify this string, but only if there's anything at all in this box.", 
+		"background_info": "", 
+		"entombed_mod_name": null, 
+		"entombed_mod_desc": null, 
+		"entombed_mod_prefix": "Fused", 
+		"pet_name": null, 
+		"pet_desc": null, 
+		"underworld_uplink_name": null, 
+		"underworld_uplink_desc": null, 
+		"human_name": "Omar Flickinger", 
+		"penis_color": [
+			"#39ee6f", 
+			"#11e065", 
+			"#ce88e6"
+		], 
+		"testicles_color": [
+			"#b640af", 
+			"#cbc5d3", 
+			"#2e21c7"
+		], 
+		"body_markings_color": [
+			"#d6f604", 
+			"#07b0ee", 
+			"#b8139a"
+		], 
+		"horns_color": [
+			"#48a5e1", 
+			"#77df1c", 
+			"#0f74d3"
+		], 
+		"wings_color": [
+			"#f54b18", 
+			"#34b53c", 
+			"#405e6e"
+		], 
+		"frills_color": [
+			"#61a2b3", 
+			"#f48f02", 
+			"#63018c"
+		], 
+		"spines_color": [
+			"#69b829", 
+			"#a8742c", 
+			"#965158"
+		], 
+		"caps_color": [
+			"#bf39a7", 
+			"#36e3f5", 
+			"#7955b0"
+		], 
+		"moth_antennae_color": [
+			"#060d2d", 
+			"#061b91", 
+			"#72438a"
+		], 
+		"moth_markings_color": [
+			"#4b4597", 
+			"#09125c", 
+			"#585afb"
+		], 
+		"fluff_color": [
+			"#a75f4d", 
+			"#042bf2", 
+			"#3dccd1"
+		], 
+		"ipc_antenna_color": [
+			"#ce6ee3", 
+			"#a70a53", 
+			"#0ea792"
+		], 
+		"skrell_hair_color": [
+			"#96b41b", 
+			"#732cee", 
+			"#a8d7cb"
+		], 
+		"taur_color": [
+			"#93a3dd", 
+			"#07c936", 
+			"#6dd4cc"
+		], 
+		"xenodorsal_color": [
+			"#bc46d3", 
+			"#88e07c", 
+			"#1af68d"
+		], 
+		"xenohead_color": [
+			"#a60cea", 
+			"#7097ab", 
+			"#8ba5e3"
+		], 
+		"head_acc_color": [
+			"#814451", 
+			"#098e46", 
+			"#c2f83b"
+		], 
+		"neck_acc_color": [
+			"#7aafda", 
+			"#7cfbc0", 
+			"#9bff2b"
+		], 
+		"pod_hair_color": [
+			"#79026d", 
+			"#3e04f7", 
+			"#ca4f7a"
+		], 
+		"penis_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"testicles_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"vagina_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"breasts_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"body_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tail_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"snout_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"horns_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ears_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"wings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"frills_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"spines_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"caps_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_antennae_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"moth_markings_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"fluff_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"ipc_antenna_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"skrell_hair_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"taur_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenodorsal_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"xenohead_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"head_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"neck_acc_emissive": [
+			0, 
+			0, 
+			0
+		], 
+		"tgui_prefs_migration": 1
+	}
+}

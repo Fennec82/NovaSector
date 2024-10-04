@@ -1,0 +1,3 @@
+{"ts":"1716789321.698783","round-id":null,"secret":0,"cat-list":["transport"],"cat":"transport"}
+{"ts":"2024-05-27 01:58:09.758","cat":"transport","msg":"2uuFo: MULEbot successfuly set home location to ID QM #1 at 83, 118, 4","data":null,"w-state":{"tick_usage":153.132,"tick_lag":0.5,"time":269,"timestamp":"1716789489.764117"},"s-store":null,"id":184,"s-ver":"1.0.0"}
+{"ts":"2024-05-27 01:58:09.774","cat":"transport","msg":"7bTpI: MULEbot successfuly set home location to ID QM #2 at 83, 117, 4","data":null,"w-state":{"tick_usage":187.342,"tick_lag":0.5,"time":269,"timestamp":"1716789489.781223"},"s-store":null,"id":186,"s-ver":"1.0.0"}

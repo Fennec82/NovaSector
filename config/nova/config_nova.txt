@@ -46,7 +46,7 @@ CRYO_MIN_SSD_TIME 15
 #AUTOTRANSFER
 
 ## Enables starting transfer votes by the crew at large.
-#ALLOW_VOTE_TRANSFER
+ALLOW_VOTE_TRANSFER
 
 ## autovote initial delay (deciseconds in real time) before first automatic transfer vote call (default 120 minutes)
 ## Set to 0 to disable the subsystem altogether.
@@ -82,7 +82,7 @@ ROCKPLANET_BUDGET 60
 PC_MOB_TEXT As a player controlled mob you are expected to play the role to the best of your ability. This means if you're an animal, act like one. You shouldn't display much intelligence if any. This also means if you're engaging in combat you should refrain from mercing people fully. Play not to win but to create a challenge. You're there to replace AI, make others enjoy the situation as well. If your simple mob is not above simple or mute intelligence, using structures such as welding tanks/canisters/boxes to hinder your opponent is entirely forbidden. Do not do this.
 
 ## Toggles various checks for russian texts formation, as an example - autohiss. Useful only for russian servers
-#RUSSIAN_TEXT_FORMATION
+RUSSIAN_TEXT_FORMATION
 
 ## Toggles off SSDecay when uncommented, HIGHLY recommended for map test-merges, to avoid giving it a bad first impression.
 SSDECAY_DISABLED
@@ -100,7 +100,7 @@ SSDECAY_DISABLE_NESTS
 #DISABLE_MISMATCHED_PARTS
 
 ## Do we allow consecutive catastrophic events?
-ALLOW_CONSECUTIVE_CATASTROPIC_EVENTS
+#ALLOW_CONSECUTIVE_CATASTROPIC_EVENTS
 
 ## What is the most amount of time the next event can run?
 EVENT_FREQUENCY_UPPER 8400
@@ -130,10 +130,10 @@ STATIONARY_BOH_SINGULARITY_GRAV_PULL 4
 DISABLE_ROAMING_BOH_SINGULARITY
 
 ## The link to the policy wiki page for primitive catgirls
-ICECATS_POLICY_LINK "https://wiki.novasector13.com/index.php/Ghost_Role_policy#Icewalkers"
+#ICECATS_POLICY_LINK "https://wiki.novasector13.com/index.php/Ghost_Role_policy#Icewalkers"
 
 ## What is the maximum size (in percents) we want people to be able to use with the size collar?
-SIZE_COLLAR_MAXIMUM 400
+SIZE_COLLAR_MAXIMUM 900
 ## What is the minimum size (in percents) we want people to be able to use with the size collar?
 SIZE_COLLAR_MINIMUM 15
 
@@ -160,10 +160,10 @@ ARRIVALS_WAIT 150
 #DISABLE_ANTAG_OPT_IN_PREFERENCES
 
 ## Uncomment to enable the replacing of flashbangs in secbelts with energy bolas
-REPLACE_SECBELT_FLASHBANGS_WITH_BOLA
+#REPLACE_SECBELT_FLASHBANGS_WITH_BOLA
 
 ## Uncomment to block borgs/silicons from going through gateways
 #BORG_GATEWAY_BLACKLIST
 
 ## Uncomment to make flashbangs forbidden during green alerts
-FLASHBANGS_FORBIDDEN_DURING_GREEN
+#FLASHBANGS_FORBIDDEN_DURING_GREEN

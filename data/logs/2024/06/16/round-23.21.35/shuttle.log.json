@@ -1,0 +1,2 @@
+{"ts":"1718594495.983667","round-id":null,"secret":0,"cat-list":["shuttle"],"cat":"shuttle"}
+{"ts":"2024-06-16 23:30:13.671","cat":"shuttle","msg":"RiotScopez/(Ku Mi-Kyung) has sent shuttle \"arrivals_shuttle\" towards \"arrivals_stationary\", using the arrivals shuttle control.","data":null,"w-state":{"tick_usage":17.3526,"tick_lag":0.5,"time":2486,"timestamp":"1718595013.676996"},"s-store":null,"id":1097,"s-ver":"1.0.0"}

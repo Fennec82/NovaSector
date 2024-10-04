@@ -1,0 +1,2 @@
+{"ts":"1716288770.872844","round-id":null,"secret":0,"cat-list":["shuttle"],"cat":"shuttle"}
+{"ts":"2024-05-21 08:37:12.049","cat":"shuttle","msg":"RiotScopez/(Vanya Nahar) has sent shuttle \"arrivals_shuttle\" towards \"arrivals_stationary\", using the arrivals shuttle control.","data":null,"w-state":{"tick_usage":11.1734,"tick_lag":0.5,"time":60795.5,"timestamp":"1716295032.052896"},"s-store":null,"id":1694,"s-ver":"1.0.0"}

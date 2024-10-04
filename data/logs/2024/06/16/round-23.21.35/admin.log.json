@@ -1,0 +1,4 @@
+{"ts":"1718594495.983667","round-id":null,"secret":0,"cat-list":["admin-dsay","admin-circuit","admin"],"cat":"admin"}
+{"ts":"2024-06-16 23:26:33.074","cat":"admin","msg":"RiotScopez/(RiotScopez) has started the game.","data":null,"w-state":{"tick_usage":41.559,"tick_lag":0.5,"time":863,"timestamp":"1718594793.078960"},"s-store":null,"id":849,"s-ver":"1.0.0"}
+{"ts":"2024-06-16 23:27:21.218","cat":"admin","msg":"RiotScopez/(Ku Mi-Kyung) entered a stasis pod.","data":null,"w-state":{"tick_usage":42.1542,"tick_lag":0.5,"time":1243.5,"timestamp":"1718594841.222471"},"s-store":null,"id":974,"s-ver":"1.0.0"}
+{"ts":"2024-06-16 23:27:27.326","cat":"admin","msg":"RiotScopez/(Ku Mi-Kyung) admin ghosted.","data":null,"w-state":{"tick_usage":128.237,"tick_lag":0.5,"time":1282,"timestamp":"1718594847.329981"},"s-store":null,"id":979,"s-ver":"1.0.0"}
