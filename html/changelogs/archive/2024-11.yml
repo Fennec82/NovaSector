@@ -28,3 +28,20 @@
   - bugfix: blueshift's cargo shuttle buttons are more accessible now.
   - rscadd: Interdyne has a new trim icon for it's scientists and shaft miners, as
       well as a new color palette.
+2024-11-03:
+  A.C.M.O.:
+  - rscadd: Added the Primidine Starfruit. The seed pack is available in the supply
+      console imports category.
+  Hardly:
+  - map: Added Interdrobe to the ghost cafe
+  - map: Removed the vine on redsec's vendor in ghost cafe
+  - bugfix: Icebox Interdyne's library is now connected with the powernet
+2024-11-04:
+  GoldenAlpharex:
+  - bugfix: Fixes a donator's item not being available to them in the loadout menu.
+2024-11-05:
+  Draggeru:
+  - rscadd: 'Adds four new hairstyles: Mermaid, Thick Ponytail, Elegant Bun, and Royal
+      Curls'
+  Jinshee:
+  - rscadd: New gecko tail!
